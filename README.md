@@ -1,5 +1,13 @@
+<!--
 ### Hi there 👋
+-->
+Active Project :
 
+- [🔰100 Day of my Java Journey](https://github.com/HelloYeew/100-day-of-my-java-journey)
+
+Dream Project :
+
+- Kasumi Discord Bot
 <!--
 **HelloYeew/HelloYeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
