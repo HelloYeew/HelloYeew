@@ -3,7 +3,7 @@
 -->
 Active Project :
 
-- [🔰100 Day of my Java Journey](https://github.com/HelloYeew/100-day-of-my-java-journey)
+- [🔰 100 Day of my Java Journey](https://github.com/HelloYeew/100-day-of-my-java-journey)
 
 Dream Project :
 
