@@ -4,8 +4,8 @@
 # Project
 Active Project :
 
-- [🔰 My Java and Javascrpit Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
-- [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook)
+- [🔰 My Java and Javascript Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
+- [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing...
 
 Dream Project :
 
