@@ -4,12 +4,15 @@
 # Project
 Active Project :
 
-- [🔰 100 Day of my Java Journey](https://github.com/HelloYeew/100-day-of-my-java-journey)
+- [🔰 My Java and Javascrpit Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
 - [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook)
 
 Dream Project :
 
 - Kasumi Discord Bot
+# My Website
+[helloyeew.dev](http://www.helloyeew.dev)
+
 # Contact
 Email : me@helloyeew.dev
 
