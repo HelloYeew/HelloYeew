@@ -12,7 +12,7 @@ Dream Project :
 - Kasumi Discord Bot
 # My Website
 [helloyeew.dev](http://www.helloyeew.dev)
-Currently redirect to my GitHub profile LOL.
+(Making...)
 
 # Contact
 Email : me@helloyeew.dev
