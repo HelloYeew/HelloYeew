@@ -2,14 +2,18 @@
 ### Hi there 👋
 -->
 # Project
-Active Project :
+**Active Project :**
 
 - [🔰 My Java and Javascript Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
 - [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing...
 
-Dream Project :
+**Dream Project :**
 
 - Kasumi Discord Bot
+# My repo in SKE
+**Year 1**
+- [🔥 Computer Programming I](https://github.com/HelloYeew/helloyeew-computer-programming-i)
+
 # My Website
 [helloyeew.dev](http://www.helloyeew.dev)
 (Making...)
