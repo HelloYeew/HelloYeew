@@ -10,7 +10,6 @@ I'm Otaku. AH↗️ HA↘️ HA↗️ HA↘️ HA↗️ <br>
 
 ### Contact
 Email : me@helloyeew.dev <br>
-Facebook : [Phawit Pornwattanakul](https://www.facebook.com/HelloYeew/) <br>
 ### My Website
 [helloyeew.dev](http://www.helloyeew.dev)
 (Making...)
