@@ -27,6 +27,7 @@ Email : me@helloyeew.dev <br>
 ## My repo in SKE
 **Year 1**
 - [🔥 Computer Programming I](https://github.com/HelloYeew/helloyeew-computer-programming-i)
+- [🔥 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-i)
 
 <!--
 **HelloYeew/HelloYeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
