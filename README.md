@@ -3,16 +3,8 @@
 -->
 # Hi, I'm HelloYeew.
 ![Alt text](bearcomputer.gif)<br>
-Hello everyone, welcome to my GitHub profiles. My name is Phawit Pornwattanakul or you can call me Volk or HelloYeew. <br>
 Currently study year 1 in Software and Knowledge Engineering at Kasetsart University. <br>
-Normally I always sit with my MacBook Pro with Photoshop LOL. <br>
-I'm Otaku. AH↗️ HA↘️ HA↗️ HA↘️ HA↗️ <br>
-
-### Contact
-Email : me@helloyeew.dev <br>
-### My Website
-[helloyeew.dev](http://www.helloyeew.dev)
-(Making...)
+Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗️ HA↘️ HA↗️. <br>
 
 ## Project
 **Active Project :**
