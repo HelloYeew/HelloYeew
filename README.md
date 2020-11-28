@@ -12,7 +12,7 @@ Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗
 - [🔰 My Java and Javascript Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
 - [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing...
 - [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-- [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence) : Making Wiki How to use it.
+- [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence) : Testing...
 
 **Dream Project :**
 
