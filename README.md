@@ -33,6 +33,7 @@ Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗
 - [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing...
 - [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
 - [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence) : Testing...
+- [🦈 Ikea Shark Collection](https://github.com/HelloYeew/ikea-shark-collection)
 
 **Dream Project :**
 
