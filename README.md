@@ -21,8 +21,8 @@ Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗
 
 ## Latest Pull Request
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/SaltyAom/prophet-button/pull/6) in [SaltyAom/prophet-button](https://github.com/SaltyAom/prophet-button)
-2. 💪 Opened PR [#5](https://github.com/pontakornth/loykrathong/pull/5) in [pontakornth/loykrathong](https://github.com/pontakornth/loykrathong)
+1. ❗️ Opened issue [#2](https://github.com/HelloYeew/hololive-button/issues/2) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
+2. ❗️ Opened issue [#1](https://github.com/HelloYeew/hololive-button/issues/1) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
 3. 🎉 Merged PR [#1](https://github.com/HelloYeew/loykrathong/pull/1) in [HelloYeew/loykrathong](https://github.com/HelloYeew/loykrathong)
 4. 💪 Opened PR [#1](https://github.com/HelloYeew/loykrathong/pull/1) in [HelloYeew/loykrathong](https://github.com/HelloYeew/loykrathong)
 <!--END_SECTION:activity-->
