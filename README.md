@@ -21,10 +21,10 @@ Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗
 
 ## Latest Pull Request
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/HelloYeew/hololive-button/issues/4) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
-2. ❗️ Opened issue [#3](https://github.com/HelloYeew/hololive-button/issues/3) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
-3. ❗️ Opened issue [#2](https://github.com/HelloYeew/hololive-button/issues/2) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
-4. ❗️ Opened issue [#1](https://github.com/HelloYeew/hololive-button/issues/1) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
+1. ❗️ Closed issue [#1](https://github.com/HelloYeew/hololive-button/issues/1) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
+2. ❗️ Opened issue [#4](https://github.com/HelloYeew/hololive-button/issues/4) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
+3. ❗️ Opened issue [#3](https://github.com/HelloYeew/hololive-button/issues/3) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
+4. ❗️ Opened issue [#2](https://github.com/HelloYeew/hololive-button/issues/2) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
 <!--END_SECTION:activity-->
 ## Project
 **Active Project :**
