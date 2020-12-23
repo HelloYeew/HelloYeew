@@ -35,14 +35,14 @@ Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗
 - [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence) : Adding more function...
 - [🦈 Ikea Shark Collection](https://github.com/HelloYeew/ikea-shark-collection)
 - [🦈 Gura Button](https://github.com/HelloYeew/gura-button)
-- [🔈 Hololive Button](https://github.com/HelloYeew/hololive-button)
+- [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
 - Kasumi Discord Bot : *Dreaming*
 
 ## My Website
 
 - [helloyeew.dev](https://helloyeew.dev) : I recommend just not click it now.
 - [gura-button.helloyeew.dev](https://gura-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/gura-button)
-- [hololive-button.helloyeew.dev](https://hololive-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/hololive-button)
+- [vtuber-button.helloyeew.dev](https://vtuber-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/vtuber-button)
   
 ## My repo in SKE
 
