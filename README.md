@@ -15,9 +15,18 @@
 
 
 # Hi, I'm HelloYeew.
-![Alt text](bearcomputer.gif)<br>
-Currently study year 1 in Software and Knowledge Engineering at Kasetsart University. <br>
-Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗️ HA↘️ HA↗️. <br>
+- 🌱 Currently study year 1 in Software and Knowledge Engineering at Kasetsart University.
+- 🚙 Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
+- 🎯 My Goals : Work in Japan tech company
+
+## Connect with me:
+
+<a href="https://helloyeew.dev"><img src="globe.svg" alt="Website" width="22" height="22" style="vertical-align:middle"></a>
+<a href="https://www.facebook.com/HelloYeew/"><img src="facebook.svg" alt="Facebook profiles" width="22" height="22" style="vertical-align:middle"></a>
+<a href="https://twitter.com/nonggummud"><img src="twitter.svg" alt="Twitter profiles" width="22" height="22" style="vertical-align:middle"></a>
+<a href="https://www.instagram.com/ttim.gummud/"><img src="instagram.svg" alt="Instagram profiles" width="22" height="22" style="vertical-align:middle"></a>
+<a href="https://www.linkedin.com/in/phawit-pornwattanakul-a0137a1b4/"><img src="linkedin.svg" alt="Linkedin profiles" width="22" height="22" style="vertical-align:middle"></a>
+
 
 ## Latest Pull Request
 <!--START_SECTION:activity-->
