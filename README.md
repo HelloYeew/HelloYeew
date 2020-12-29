@@ -5,6 +5,11 @@
 <!-- ![HelloYeew's github stats](https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact) -->
 
+# Hi, I'm HelloYeew.
+- 🌱 Currently study year 1 in Software and Knowledge Engineering at Kasetsart University.
+- 🚙 Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
+- 🎯 My Goals : Work in Japan tech company
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
 </a>
@@ -12,12 +17,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
 </a>
-
-
-# Hi, I'm HelloYeew.
-- 🌱 Currently study year 1 in Software and Knowledge Engineering at Kasetsart University.
-- 🚙 Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
-- 🎯 My Goals : Work in Japan tech company
 
 ## Connect with me:
 
