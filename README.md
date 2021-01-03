@@ -43,7 +43,8 @@
 - [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence) : Adding more function...
 - [🦈 Ikea Shark Collection](https://github.com/HelloYeew/ikea-shark-collection)
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
-- Kasumi Discord Bot : *Dreaming*
+- [📎 Universal YouTube Python](https://github.com/HelloYeew/universal-youtube-python)
+<!-- - Kasumi Discord Bot : *Dreaming* -->
 
 ## My Website
 
