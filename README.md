@@ -34,14 +34,21 @@
 3. ❗️ Opened issue [#3](https://github.com/HelloYeew/hololive-button/issues/3) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
 4. ❗️ Opened issue [#2](https://github.com/HelloYeew/hololive-button/issues/2) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
 <!--END_SECTION:activity-->
-## Project
+## My Project
+
+**All of my 2021 projects**
+
+All of my 2021 projects (and my memo to) I always update in this repo so you can check it. It always have a weird project or project that I just want to do it.
+
+- [✈️ HelloYeew's 2021 Journal](https://github.com/HelloYeew/2021-journal)
+
 **Active Project :**
 
 - [🔰 My Java and Javascript Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
 - [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing...
 - [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
 - [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence) : Adding more function...
-- [🦈 Ikea Shark Collection](https://github.com/HelloYeew/ikea-shark-collection)
+<!-- - [🦈 Ikea Shark Collection](https://github.com/HelloYeew/ikea-shark-collection) -->
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
 - [📎 Universal YouTube Python](https://github.com/HelloYeew/universal-youtube-python)
 <!-- - Kasumi Discord Bot : *Dreaming* -->
@@ -53,11 +60,13 @@
 - [vtuber-button.helloyeew.dev](https://vtuber-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/vtuber-button)
 - [a-piano.helloyeew.dev](https://a-piano.helloyeew.dev) from [this repo](https://github.com/HelloYeew/a-piano) : Just 'a' piano
   
-## My repo in SKE
+## My repositories in SKE
 
-**Year 1**
+**Year 1 Semester 1**
+
 - [🔥 Computer Programming I](https://github.com/HelloYeew/helloyeew-computer-programming-i)
 - [🔥 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-i)
+- [🔥 Computer Programming II]
 
 <!--
 **HelloYeew/HelloYeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
