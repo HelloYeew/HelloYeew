@@ -62,11 +62,12 @@ All of my 2021 projects (and my memo to) I always update in this repo so you can
   
 ## My repositories in SKE
 
-**Year 1 Semester 1**
+**Year 1**
 
 - [🔥 Computer Programming I](https://github.com/HelloYeew/helloyeew-computer-programming-i)
 - [🔥 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-i)
-- [🔥 Computer Programming II]
+- [🐳 Computer Programming II](https://github.com/HelloYeew/helloyeew-computer-programming-ii)
+- [🐳 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-ii)
 
 <!--
 **HelloYeew/HelloYeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
