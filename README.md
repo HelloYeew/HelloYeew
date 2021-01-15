@@ -51,7 +51,7 @@ All of my 2021 projects (and my memo to) I always update in this repo so you can
 - [🦈 Ikea Shark Collection](https://github.com/HelloYeew/ikea-shark-collection)
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
 - [📎 Universal YouTube Python](https://github.com/HelloYeew/universal-youtube-python)
-- [🌟 Kasumi Discord Bot]
+- [🌟 Kasumi Discord Bot](https://github.com/HelloYeew/kasumi)
 
 ## My Website
 
