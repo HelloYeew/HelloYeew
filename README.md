@@ -8,7 +8,7 @@
 # Hi, I'm HelloYeew.
 - 🌱 Currently study year 1 in Software and Knowledge Engineering at Kasetsart University.
 - 🚙 Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
-- 🎯 My Goals : Work in Japan tech company
+- 🎯 My Goals : Work on something that I love and at my favorite country!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
