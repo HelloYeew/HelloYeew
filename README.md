@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
 </a>
 
-## Connect with me:
+## Connect with me
 
 <a href="https://helloyeew.dev"><img src="globe.svg" alt="Website" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://www.facebook.com/HelloYeew/"><img src="facebook.svg" alt="Facebook profiles" width="22" height="22" style="vertical-align:middle"></a>
