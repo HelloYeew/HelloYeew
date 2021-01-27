@@ -45,17 +45,23 @@ All of my 2021 projects (and my memo to) I always update in this repo so you can
 **Active Project :**
 
 - [🔰 My Java and Javascript Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
-- [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing...
+- [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing and dreaming...
 - [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
 - [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence) : Adding more function...
 - [🦈 Ikea Shark Collection](https://github.com/HelloYeew/ikea-shark-collection)
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
 - [📎 Universal YouTube Python](https://github.com/HelloYeew/universal-youtube-python)
-- [🌟 Kasumi Discord Bot](https://github.com/HelloYeew/kasumi)
+- [🌟 Kasumi](https://github.com/HelloYeew/kasumi)
+
+**Personal Website Repositories**
+
+- [📘 My Persoanl Blog](https://github.com/HelloYeew/helloyeew-blog)
+- 🏡 My Digital Garden : *Coming Soon...*
 
 ## My Website
 
 - [helloyeew.dev](https://helloyeew.dev) : I recommend just not click it now.
+- [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog
 - [gura-button.helloyeew.dev](https://gura-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/gura-button)
 - [vtuber-button.helloyeew.dev](https://vtuber-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/vtuber-button)
 - [a-piano.helloyeew.dev](https://a-piano.helloyeew.dev) from [this repo](https://github.com/HelloYeew/a-piano) : Just 'a' piano
