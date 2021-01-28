@@ -73,7 +73,8 @@ All of my 2021 projects (and my memo to) I always update in this repo so you can
 - [🔥 Computer Programming I](https://github.com/HelloYeew/helloyeew-computer-programming-i)
 - [🔥 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-i)
 - [🐳 Computer Programming II](https://github.com/HelloYeew/helloyeew-computer-programming-ii)
-- [🐳 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-ii)
+- [🐳 Laboratory of Computer Programming II](https://github.com/HelloYeew/helloyeew-lab-computer-programming-ii)
+- [🌝 Demo GitHub Repositories in Computer Programming II](https://github.com/HelloYeew/my-demo-repo)
 
 <!--
 **HelloYeew/HelloYeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
