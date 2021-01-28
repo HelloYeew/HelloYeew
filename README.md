@@ -29,8 +29,8 @@
 
 ## Latest Pull Request
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SainTurDaY27/SainTurDaY27/pull/1) in [SainTurDaY27/SainTurDaY27](https://github.com/SainTurDaY27/SainTurDaY27)
-2. ❗️ Opened issue [#4](https://github.com/HelloYeew/hololive-button/issues/4) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
+1. 💪 Opened PR [#2](https://github.com/SainTurDaY27/SainTurDaY27/pull/2) in [SainTurDaY27/SainTurDaY27](https://github.com/SainTurDaY27/SainTurDaY27)
+2. 💪 Opened PR [#1](https://github.com/SainTurDaY27/SainTurDaY27/pull/1) in [SainTurDaY27/SainTurDaY27](https://github.com/SainTurDaY27/SainTurDaY27)
 3. ❗️ Opened issue [#3](https://github.com/HelloYeew/hololive-button/issues/3) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
 4. ❗️ Opened issue [#2](https://github.com/HelloYeew/hololive-button/issues/2) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
 <!--END_SECTION:activity-->
