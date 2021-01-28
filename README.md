@@ -55,7 +55,7 @@ All of my 2021 projects (and my memo to) I always update in this repo so you can
 
 **Personal Website Repositories**
 
-- [📘 My Persoanl Blog](https://github.com/HelloYeew/helloyeew-blog)
+- [📘 My Personal Blog](https://github.com/HelloYeew/helloyeew-blog)
 - 🏡 My Digital Garden : *Coming Soon...*
 
 ## My Website
