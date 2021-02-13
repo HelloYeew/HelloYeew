@@ -52,6 +52,7 @@ All of my 2021 projects (and my memo to) I always update in this repo so you can
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
 - [📎 Universal YouTube Python](https://github.com/HelloYeew/universal-youtube-python)
 - [🌟 Kasumi](https://github.com/HelloYeew/kasumi)
+- [❣️ Ban P'To Discord Bot](https://github.com/HelloYeew/ban-pto-family-bot)
 
 **Personal Website Repositories**
 
