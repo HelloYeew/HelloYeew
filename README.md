@@ -47,7 +47,7 @@ All of my 2021 projects (and my memo to) I always update in this repo so you can
 - [🔰 My Java and Javascript Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
 - [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing and dreaming...
 - [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-- [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence) : Adding more function...
+- [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
 - [📎 Universal YouTube Python](https://github.com/HelloYeew/universal-youtube-python)
 - [🌟 Kasumi](https://github.com/HelloYeew/kasumi)
