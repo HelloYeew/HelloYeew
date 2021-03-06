@@ -29,9 +29,9 @@
 
 ## Latest Pull Request
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/SainTurDaY27/SainTurDaY27/pull/3) in [SainTurDaY27/SainTurDaY27](https://github.com/SainTurDaY27/SainTurDaY27)
-2. 💪 Opened PR [#2](https://github.com/SainTurDaY27/SainTurDaY27/pull/2) in [SainTurDaY27/SainTurDaY27](https://github.com/SainTurDaY27/SainTurDaY27)
-3. ❗️ Opened issue [#3](https://github.com/HelloYeew/hololive-button/issues/3) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
+1. 🎉 Merged PR [#1](https://github.com/HelloYeew/kasumi/pull/1) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+2. 🗣 Commented on [#1](https://github.com/HelloYeew/kasumi/issues/1) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+3. 💪 Opened PR [#3](https://github.com/SainTurDaY27/SainTurDaY27/pull/3) in [SainTurDaY27/SainTurDaY27](https://github.com/SainTurDaY27/SainTurDaY27)
 4. ❗️ Opened issue [#2](https://github.com/HelloYeew/hololive-button/issues/2) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
 <!--END_SECTION:activity-->
 ## My Project
