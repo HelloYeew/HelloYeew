@@ -29,10 +29,10 @@
 
 ## Latest Pull Request
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HelloYeew/kasumi/pull/1) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-2. 🗣 Commented on [#1](https://github.com/HelloYeew/kasumi/issues/1) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-3. 💪 Opened PR [#3](https://github.com/SainTurDaY27/SainTurDaY27/pull/3) in [SainTurDaY27/SainTurDaY27](https://github.com/SainTurDaY27/SainTurDaY27)
-4. ❗️ Opened issue [#2](https://github.com/HelloYeew/hololive-button/issues/2) in [HelloYeew/hololive-button](https://github.com/HelloYeew/hololive-button)
+1. ❗️ Opened issue [#3](https://github.com/HelloYeew/monke-game/issues/3) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
+2. ❗️ Opened issue [#2](https://github.com/HelloYeew/monke-game/issues/2) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
+3. ❗️ Opened issue [#1](https://github.com/HelloYeew/monke-game/issues/1) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
+4. 🎉 Merged PR [#1](https://github.com/HelloYeew/kasumi/pull/1) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
 <!--END_SECTION:activity-->
 ## My Project
 
