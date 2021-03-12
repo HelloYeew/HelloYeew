@@ -36,25 +36,28 @@
 <!--END_SECTION:activity-->
 ## My Project
 
-**All of my 2021 projects**
+**All of My Projects List**
 
-All of my 2021 projects (and my memo to) I always update in this repo so you can check it. It always have a weird project or project that I just want to do it.
+All of my projects (and my journal too) I always update in this repositories so you can check it. It always have a weird project or project that I just want to do it.
 
-- [✈️ HelloYeew's 2021 Journal](https://github.com/HelloYeew/2021-journal)
+- [✈️ HelloYeew's Journal](https://github.com/HelloYeew/journal)
 
 **Active Project :**
 
+- [🌟 Kasumi](https://github.com/HelloYeew/kasumi)
 - [🔰 My Java and Javascript Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
 - [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing and dreaming...
-- [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-- [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
 - [📎 Universal YouTube Python](https://github.com/HelloYeew/universal-youtube-python)
-- [🌟 Kasumi](https://github.com/HelloYeew/kasumi)
 - [❣️ Ban P'To Discord Bot](https://github.com/HelloYeew/ban-pto-family-bot)
+
+**Rarely Update Project / Stable Project**
+
+- [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
 
 **Personal Website Repositories**
 
+- [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
 - [📘 My Personal Blog](https://github.com/HelloYeew/helloyeew-blog)
 - 🏡 My Digital Garden : *Coming Soon...*
 
