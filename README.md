@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
 </a>
 
-## Connect with me
+## 💬 Connect with me
 
 <a href="https://helloyeew.dev"><img src="globe.svg" alt="Website" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://www.facebook.com/HelloYeew/"><img src="facebook.svg" alt="Facebook profiles" width="22" height="22" style="vertical-align:middle"></a>
@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/phawit-pornwattanakul-a0137a1b4/"><img src="linkedin.svg" alt="Linkedin profiles" width="22" height="22" style="vertical-align:middle"></a>
 
 
-## Latest Pull Request
+## Latest Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#2](https://github.com/HelloYeew/monke-game/issues/2) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
 2. ❗️ Closed issue [#1](https://github.com/HelloYeew/monke-game/issues/1) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
@@ -78,6 +78,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [🐳 Computer Programming II](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [🐳 Laboratory of Computer Programming II](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [🌝 Demo GitHub Repositories in Computer Programming II](https://github.com/HelloYeew/my-demo-repo)
+- [🐒 MONKE Game](https://github.com/HelloYeew/monke-game)
 
 <!--
 **HelloYeew/HelloYeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
