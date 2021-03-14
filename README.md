@@ -29,10 +29,10 @@
 
 ## Latest Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/HelloYeew/monke-game/issues/2) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
-2. ❗️ Closed issue [#1](https://github.com/HelloYeew/monke-game/issues/1) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
-3. ❗️ Opened issue [#3](https://github.com/HelloYeew/monke-game/issues/3) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
-4. ❗️ Opened issue [#2](https://github.com/HelloYeew/monke-game/issues/2) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
+1. ❗️ Opened issue [#2](https://github.com/HelloYeew/kasumi/issues/2) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+2. ❗️ Closed issue [#2](https://github.com/HelloYeew/monke-game/issues/2) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
+3. ❗️ Closed issue [#1](https://github.com/HelloYeew/monke-game/issues/1) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
+4. ❗️ Opened issue [#3](https://github.com/HelloYeew/monke-game/issues/3) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
 <!--END_SECTION:activity-->
 ## My Project
 
