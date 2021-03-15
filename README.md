@@ -29,10 +29,10 @@
 
 ## Latest Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/pontakornth/flappydot/issues/3) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
-2. ❗️ Closed issue [#3](https://github.com/pontakornth/flappydot/issues/3) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
-3. ❗️ Opened issue [#2](https://github.com/HelloYeew/kasumi/issues/2) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-4. ❗️ Closed issue [#2](https://github.com/HelloYeew/monke-game/issues/2) in [HelloYeew/monke-game](https://github.com/HelloYeew/monke-game)
+1. 🗣 Commented on [#5](https://github.com/pontakornth/flappydot/issues/5) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
+2. ❗️ Closed issue [#5](https://github.com/pontakornth/flappydot/issues/5) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
+3. ❗️ Closed issue [#4](https://github.com/pontakornth/flappydot/issues/4) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
+4. 🗣 Commented on [#4](https://github.com/pontakornth/flappydot/issues/4) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
 <!--END_SECTION:activity-->
 ## My Project
 
