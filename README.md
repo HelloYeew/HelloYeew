@@ -29,10 +29,10 @@
 
 ## Latest Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/pontakornth/flappydot/issues/5) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
-2. ❗️ Closed issue [#5](https://github.com/pontakornth/flappydot/issues/5) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
-3. ❗️ Closed issue [#4](https://github.com/pontakornth/flappydot/issues/4) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
-4. 🗣 Commented on [#4](https://github.com/pontakornth/flappydot/issues/4) in [pontakornth/flappydot](https://github.com/pontakornth/flappydot)
+1. ❗️ Opened issue [#7](https://github.com/HelloYeew/kasumi/issues/7) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+2. ❗️ Opened issue [#6](https://github.com/HelloYeew/kasumi/issues/6) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+3. ❗️ Opened issue [#5](https://github.com/HelloYeew/kasumi/issues/5) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+4. ❗️ Opened issue [#4](https://github.com/HelloYeew/kasumi/issues/4) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
 <!--END_SECTION:activity-->
 ## My Project
 
