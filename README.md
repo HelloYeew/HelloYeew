@@ -29,10 +29,10 @@
 
 ## Latest Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
-2. 🗣 Commented on [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
-3. ❗️ Closed issue [#1](https://github.com/HelloYeew/pacman-boi/issues/1) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
-4. 🗣 Commented on [#1](https://github.com/HelloYeew/pacman-boi/issues/1) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
+1. ❗️ Opened issue [#12066](https://github.com/ppy/osu/issues/12066) in [ppy/osu](https://github.com/ppy/osu)
+2. ❗️ Closed issue [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
+3. 🗣 Commented on [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
+4. ❗️ Closed issue [#1](https://github.com/HelloYeew/pacman-boi/issues/1) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
 <!--END_SECTION:activity-->
 ## My Project
 
