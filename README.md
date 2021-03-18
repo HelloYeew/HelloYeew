@@ -29,10 +29,10 @@
 
 ## Latest Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/HelloYeew/kasumi/issues/7) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-2. ❗️ Opened issue [#6](https://github.com/HelloYeew/kasumi/issues/6) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-3. ❗️ Opened issue [#5](https://github.com/HelloYeew/kasumi/issues/5) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-4. ❗️ Opened issue [#4](https://github.com/HelloYeew/kasumi/issues/4) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+1. ❗️ Closed issue [#1](https://github.com/HelloYeew/pacman-boi/issues/1) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
+2. 🗣 Commented on [#1](https://github.com/HelloYeew/pacman-boi/issues/1) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
+3. ❗️ Opened issue [#7](https://github.com/HelloYeew/kasumi/issues/7) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+4. ❗️ Opened issue [#6](https://github.com/HelloYeew/kasumi/issues/6) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
 <!--END_SECTION:activity-->
 ## My Project
 
