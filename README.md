@@ -34,13 +34,24 @@
 3. 🗣 Commented on [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
 4. ❗️ Closed issue [#1](https://github.com/HelloYeew/pacman-boi/issues/1) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
 <!--END_SECTION:activity-->
-## My Project
+
+## My Personal Repositories
+
+- [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup)
 
 **All of My Projects List**
 
 All of my projects (and my journal too) I always update in this repositories so you can check it. It always have a weird project or project that I just want to do it.
 
 - [✈️ HelloYeew's Journal](https://github.com/HelloYeew/journal)
+
+**Personal Website Repositories**
+
+- [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+- [📘 My Personal Blog](https://github.com/HelloYeew/helloyeew-blog)
+- [🏡 My Digital Garden](https://github.com/HelloYeew/helloyeew-digital-garden)
+
+## My Project
 
 **Active Project :**
 
@@ -55,16 +66,11 @@ All of my projects (and my journal too) I always update in this repositories so 
 
 - [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
 
-**Personal Website Repositories**
-
-- [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-- [📘 My Personal Blog](https://github.com/HelloYeew/helloyeew-blog)
-- 🏡 My Digital Garden : *Coming Soon...*
-
 ## My Website
 
-- [helloyeew.dev](https://helloyeew.dev) : I recommend just not click it now.
-- [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog
+- [helloyeew.dev](https://helloyeew.dev) : I recommend just not click it now. (No repo now)
+- [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog ([repo](https://github.com/HelloYeew/helloyeew-blog))
+- [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden))
 - [gura-button.helloyeew.dev](https://gura-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/gura-button)
 - [vtuber-button.helloyeew.dev](https://vtuber-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/vtuber-button)
 - [a-piano.helloyeew.dev](https://a-piano.helloyeew.dev) from [this repo](https://github.com/HelloYeew/a-piano) : Just 'a' piano
