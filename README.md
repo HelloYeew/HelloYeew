@@ -28,6 +28,9 @@
 <a href="https://osu.ppy.sh/users/18735426"><img src="icon/osu.png" alt="osu! profiles" width="22" height="22" style="vertical-align:middle"></a>
 
 ## Latest Activity
+
+<p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat-square" alt="HelloYeew" /></p>
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#12066](https://github.com/ppy/osu/issues/12066) in [ppy/osu](https://github.com/ppy/osu)
 2. ❗️ Closed issue [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
