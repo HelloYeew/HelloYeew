@@ -11,6 +11,7 @@
 
 - 🌱 Currently study year 2 in Software and Knowledge Engineering at Kasetsart University.
 - 🚙 Normally I always sit with my MacBook Pro AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
+- 🔭 I’m currently working on [Rūrusetto](https://github.com/Rurusetto/rurusetto)
 - 🎯 My Goals : Work on something that I love and at my favorite country!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
