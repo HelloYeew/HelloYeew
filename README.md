@@ -32,10 +32,10 @@
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat-square" alt="HelloYeew" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12066](https://github.com/ppy/osu/issues/12066) in [ppy/osu](https://github.com/ppy/osu)
-2. ❗️ Closed issue [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
-3. 🗣 Commented on [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
-4. ❗️ Closed issue [#1](https://github.com/HelloYeew/pacman-boi/issues/1) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
+1. ❗️ Opened issue [#9](https://github.com/HelloYeew/kasumi/issues/9) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+2. ❗️ Opened issue [#8](https://github.com/HelloYeew/kasumi/issues/8) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+3. ❗️ Opened issue [#12066](https://github.com/ppy/osu/issues/12066) in [ppy/osu](https://github.com/ppy/osu)
+4. ❗️ Closed issue [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
