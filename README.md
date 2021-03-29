@@ -32,10 +32,10 @@
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat-square" alt="HelloYeew" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/HelloYeew/kasumi/issues/9) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-2. ❗️ Opened issue [#8](https://github.com/HelloYeew/kasumi/issues/8) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-3. ❗️ Opened issue [#12066](https://github.com/ppy/osu/issues/12066) in [ppy/osu](https://github.com/ppy/osu)
-4. ❗️ Closed issue [#3](https://github.com/HelloYeew/pacman-boi/issues/3) in [HelloYeew/pacman-boi](https://github.com/HelloYeew/pacman-boi)
+1. 🗣 Commented on [#2](https://github.com/EVAST9919/lazer-swing/issues/2) in [EVAST9919/lazer-swing](https://github.com/EVAST9919/lazer-swing)
+2. ❗️ Opened issue [#2](https://github.com/EVAST9919/lazer-swing/issues/2) in [EVAST9919/lazer-swing](https://github.com/EVAST9919/lazer-swing)
+3. ❗️ Opened issue [#9](https://github.com/HelloYeew/kasumi/issues/9) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+4. ❗️ Opened issue [#8](https://github.com/HelloYeew/kasumi/issues/8) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
