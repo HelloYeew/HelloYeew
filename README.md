@@ -33,9 +33,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/EVAST9919/lazer-swing/issues/2) in [EVAST9919/lazer-swing](https://github.com/EVAST9919/lazer-swing)
-2. ❗️ Opened issue [#2](https://github.com/EVAST9919/lazer-swing/issues/2) in [EVAST9919/lazer-swing](https://github.com/EVAST9919/lazer-swing)
-3. ❗️ Opened issue [#9](https://github.com/HelloYeew/kasumi/issues/9) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-4. ❗️ Opened issue [#8](https://github.com/HelloYeew/kasumi/issues/8) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+2. 🗣 Commented on [#2](https://github.com/EVAST9919/lazer-swing/issues/2) in [EVAST9919/lazer-swing](https://github.com/EVAST9919/lazer-swing)
+3. ❗️ Opened issue [#2](https://github.com/EVAST9919/lazer-swing/issues/2) in [EVAST9919/lazer-swing](https://github.com/EVAST9919/lazer-swing)
+4. ❗️ Opened issue [#9](https://github.com/HelloYeew/kasumi/issues/9) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
