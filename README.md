@@ -40,9 +40,9 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12239](https://github.com/ppy/osu/issues/12239) in [ppy/osu](https://github.com/ppy/osu)
-2. 💪 Opened PR [#5144](https://github.com/ppy/osu-wiki/pull/5144) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
-3. 🗣 Commented on [#2](https://github.com/EVAST9919/lazer-swing/issues/2) in [EVAST9919/lazer-swing](https://github.com/EVAST9919/lazer-swing)
+1. ❗️ Opened issue [#12256](https://github.com/ppy/osu/issues/12256) in [ppy/osu](https://github.com/ppy/osu)
+2. ❗️ Opened issue [#12239](https://github.com/ppy/osu/issues/12239) in [ppy/osu](https://github.com/ppy/osu)
+3. 💪 Opened PR [#5144](https://github.com/ppy/osu-wiki/pull/5144) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
 4. 🗣 Commented on [#2](https://github.com/EVAST9919/lazer-swing/issues/2) in [EVAST9919/lazer-swing](https://github.com/EVAST9919/lazer-swing)
 <!--END_SECTION:activity-->
 
