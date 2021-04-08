@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/HelloYeew/helloyeew.dev/issues/1) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-2. ❗️ Opened issue [#12256](https://github.com/ppy/osu/issues/12256) in [ppy/osu](https://github.com/ppy/osu)
-3. ❗️ Opened issue [#12239](https://github.com/ppy/osu/issues/12239) in [ppy/osu](https://github.com/ppy/osu)
-4. 💪 Opened PR [#5144](https://github.com/ppy/osu-wiki/pull/5144) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+1. ❗️ Closed issue [#1](https://github.com/HelloYeew/helloyeew.dev/issues/1) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+2. ❗️ Opened issue [#2](https://github.com/HelloYeew/helloyeew.dev/issues/2) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+3. ❗️ Opened issue [#1](https://github.com/HelloYeew/helloyeew.dev/issues/1) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+4. ❗️ Opened issue [#12256](https://github.com/ppy/osu/issues/12256) in [ppy/osu](https://github.com/ppy/osu)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
