@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/HelloYeew/helloyeew.dev/issues/3) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-2. ❗️ Closed issue [#1](https://github.com/HelloYeew/helloyeew.dev/issues/1) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-3. ❗️ Opened issue [#2](https://github.com/HelloYeew/helloyeew.dev/issues/2) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-4. ❗️ Opened issue [#1](https://github.com/HelloYeew/helloyeew.dev/issues/1) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+1. 💪 Opened PR [#4](https://github.com/HelloYeew/helloyeew.dev/pull/4) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+2. ❗️ Opened issue [#3](https://github.com/HelloYeew/helloyeew.dev/issues/3) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+3. ❗️ Closed issue [#1](https://github.com/HelloYeew/helloyeew.dev/issues/1) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+4. ❗️ Opened issue [#2](https://github.com/HelloYeew/helloyeew.dev/issues/2) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
