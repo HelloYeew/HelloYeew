@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/HelloYeew/helloyeew.dev/pull/6) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-2. ❗️ Opened issue [#12379](https://github.com/ppy/osu/issues/12379) in [ppy/osu](https://github.com/ppy/osu)
-3. ❗️ Closed issue [#3](https://github.com/HelloYeew/helloyeew.dev/issues/3) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-4. 🗣 Commented on [#3](https://github.com/HelloYeew/helloyeew.dev/issues/3) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+1. 💪 Opened PR [#7](https://github.com/HelloYeew/helloyeew.dev/pull/7) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+2. 🎉 Merged PR [#6](https://github.com/HelloYeew/helloyeew.dev/pull/6) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+3. ❗️ Closed issue [#5](https://github.com/HelloYeew/helloyeew.dev/issues/5) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
+4. 💪 Opened PR [#6](https://github.com/HelloYeew/helloyeew.dev/pull/6) in [HelloYeew/helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
