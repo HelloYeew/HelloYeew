@@ -98,6 +98,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [🐒 MONKE Game](https://github.com/HelloYeew/monke-game)
 - [🐦 Flappydot](https://github.com/pontakornth/flappydot)
 - [🎮 Pacman Boi](https://github.com/HelloYeew/pacman-boi)
+- [🎮 Space Boi](https://github.com/HelloYeew/space-boi)
 
 <!--
 **HelloYeew/HelloYeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
