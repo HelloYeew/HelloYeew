@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/HelloYeew/kasumi/pull/10) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-2. 💪 Opened PR [#10](https://github.com/HelloYeew/kasumi/pull/10) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-3. ❗️ Opened issue [#12512](https://github.com/ppy/osu/issues/12512) in [ppy/osu](https://github.com/ppy/osu)
-4. 💪 Opened PR [#5290](https://github.com/ppy/osu-wiki/pull/5290) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+1. 🗣 Commented on [#5290](https://github.com/ppy/osu-wiki/issues/5290) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+2. 🎉 Merged PR [#10](https://github.com/HelloYeew/kasumi/pull/10) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+3. 💪 Opened PR [#10](https://github.com/HelloYeew/kasumi/pull/10) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+4. ❗️ Opened issue [#12512](https://github.com/ppy/osu/issues/12512) in [ppy/osu](https://github.com/ppy/osu)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
