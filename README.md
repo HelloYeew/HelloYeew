@@ -27,6 +27,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
 </a>
+[![helloyeew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HelloYeew)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Connect with me
 
