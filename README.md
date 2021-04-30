@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HelloYeew/osu-ruleset-pages/pull/1) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
-2. 💪 Opened PR [#1](https://github.com/HelloYeew/osu-ruleset-pages/pull/1) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
-3. 💪 Opened PR [#22](https://github.com/Flutterish/Hitokori/pull/22) in [Flutterish/Hitokori](https://github.com/Flutterish/Hitokori)
-4. 🗣 Commented on [#5290](https://github.com/ppy/osu-wiki/issues/5290) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+1. 💪 Opened PR [#2](https://github.com/HelloYeew/osu-ruleset-pages/pull/2) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+2. 🎉 Merged PR [#1](https://github.com/HelloYeew/osu-ruleset-pages/pull/1) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+3. 💪 Opened PR [#1](https://github.com/HelloYeew/osu-ruleset-pages/pull/1) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+4. 💪 Opened PR [#22](https://github.com/Flutterish/Hitokori/pull/22) in [Flutterish/Hitokori](https://github.com/Flutterish/Hitokori)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
