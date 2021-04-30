@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Flutterish/Hitokori/pull/22) in [Flutterish/Hitokori](https://github.com/Flutterish/Hitokori)
-2. 🗣 Commented on [#5290](https://github.com/ppy/osu-wiki/issues/5290) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
-3. 🎉 Merged PR [#10](https://github.com/HelloYeew/kasumi/pull/10) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
-4. 💪 Opened PR [#10](https://github.com/HelloYeew/kasumi/pull/10) in [HelloYeew/kasumi](https://github.com/HelloYeew/kasumi)
+1. 🎉 Merged PR [#1](https://github.com/HelloYeew/osu-ruleset-pages/pull/1) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+2. 💪 Opened PR [#1](https://github.com/HelloYeew/osu-ruleset-pages/pull/1) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+3. 💪 Opened PR [#22](https://github.com/Flutterish/Hitokori/pull/22) in [Flutterish/Hitokori](https://github.com/Flutterish/Hitokori)
+4. 🗣 Commented on [#5290](https://github.com/ppy/osu-wiki/issues/5290) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
