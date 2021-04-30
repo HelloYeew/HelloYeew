@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/HelloYeew/osu-ruleset-pages/pull/2) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
-2. 💪 Opened PR [#2](https://github.com/HelloYeew/osu-ruleset-pages/pull/2) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
-3. 🎉 Merged PR [#1](https://github.com/HelloYeew/osu-ruleset-pages/pull/1) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
-4. 💪 Opened PR [#1](https://github.com/HelloYeew/osu-ruleset-pages/pull/1) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+1. 🎉 Merged PR [#3](https://github.com/HelloYeew/osu-ruleset-pages/pull/3) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+2. 🗣 Commented on [#3](https://github.com/HelloYeew/osu-ruleset-pages/issues/3) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+3. 🎉 Merged PR [#2](https://github.com/HelloYeew/osu-ruleset-pages/pull/2) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+4. 💪 Opened PR [#2](https://github.com/HelloYeew/osu-ruleset-pages/pull/2) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
