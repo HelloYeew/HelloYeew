@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Rurusetto/rurusetto/pull/12) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-2. 🎉 Merged PR [#9](https://github.com/HelloYeew/rurusetto/pull/9) in [HelloYeew/rurusetto](https://github.com/HelloYeew/rurusetto)
-3. 💪 Opened PR [#9](https://github.com/HelloYeew/unofficial-osu-ruleset-pages/pull/9) in [HelloYeew/unofficial-osu-ruleset-pages](https://github.com/HelloYeew/unofficial-osu-ruleset-pages)
-4. 🎉 Merged PR [#8](https://github.com/HelloYeew/osu-ruleset-pages/pull/8) in [HelloYeew/osu-ruleset-pages](https://github.com/HelloYeew/osu-ruleset-pages)
+1. 🎉 Merged PR [#13](https://github.com/Rurusetto/rurusetto/pull/13) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+2. 💪 Opened PR [#13](https://github.com/Rurusetto/rurusetto/pull/13) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+3. 💪 Opened PR [#12](https://github.com/Rurusetto/rurusetto/pull/12) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+4. 🎉 Merged PR [#9](https://github.com/HelloYeew/rurusetto/pull/9) in [HelloYeew/rurusetto](https://github.com/HelloYeew/rurusetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
