@@ -40,10 +40,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Rurusetto/rurusetto/pull/22) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-2. 💪 Opened PR [#22](https://github.com/Rurusetto/rurusetto/pull/22) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-3. 🎉 Merged PR [#21](https://github.com/Rurusetto/rurusetto/pull/21) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-4. 🗣 Commented on [#21](https://github.com/Rurusetto/rurusetto/issues/21) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. 🎉 Merged PR [#3](https://github.com/Rurusetto/rurusetto-build/pull/3) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
+2. 💪 Opened PR [#3](https://github.com/Rurusetto/rurusetto-build/pull/3) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
+3. 🎉 Merged PR [#22](https://github.com/Rurusetto/rurusetto/pull/22) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+4. 💪 Opened PR [#22](https://github.com/Rurusetto/rurusetto/pull/22) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
