@@ -9,13 +9,6 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat-square" alt="HelloYeew" /></p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=red)
-![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat&logo=C%2B%2B&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 - 🌱 Currently study year 1 in Software and Knowledge Engineering at Kasetsart University.
 - 🚙 Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
 - 🎯 My Goals : Work on something that I love and at my favorite country!
