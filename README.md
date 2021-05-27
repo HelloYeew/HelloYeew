@@ -17,7 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
 </a>
 
@@ -60,24 +59,20 @@ All of my projects (and my journal too) I always update in this repositories so 
 **Active Project :**
 
 - [🌟 Kasumi](https://github.com/HelloYeew/kasumi)
-- [🔰 My Java and Javascript Journey](https://github.com/HelloYeew/my-java-and-javascript-journey)
 - [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing and dreaming...
-- [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
-- [📎 Universal YouTube Python](https://github.com/HelloYeew/universal-youtube-python)
-- [❣️ Ban P'To Discord Bot](https://github.com/HelloYeew/ban-pto-family-bot)
+- [📚 Rūrusetto (ルールセット)](https://github.com/Rurusetto/rurusetto/) : My first officially working open-source with a team
 
 **Rarely Update Project / Stable Project**
 
 - [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
+- [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
+- [❣️ Ban P'To Discord Bot](https://github.com/HelloYeew/ban-pto-family-bot) (Very dirty code)
 
 ## My Website
 
-- [helloyeew.dev](https://helloyeew.dev) : I recommend just not click it now. (No repo now)
+- [helloyeew.dev](https://helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev))
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog ([repo](https://github.com/HelloYeew/helloyeew-blog))
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden))
-- [gura-button.helloyeew.dev](https://gura-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/gura-button)
-- [vtuber-button.helloyeew.dev](https://vtuber-button.helloyeew.dev) from [this repo](https://github.com/HelloYeew/vtuber-button)
-- [a-piano.helloyeew.dev](https://a-piano.helloyeew.dev) from [this repo](https://github.com/HelloYeew/a-piano) : Just 'a' piano
   
 ## My repositories in SKE
 
