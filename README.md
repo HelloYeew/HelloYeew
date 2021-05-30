@@ -82,7 +82,6 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [🔥 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-i)
 - [🐳 Computer Programming II](https://github.com/HelloYeew/helloyeew-computer-programming-ii)
 - [🐳 Laboratory of Computer Programming II](https://github.com/HelloYeew/helloyeew-lab-computer-programming-ii)
-- [🌝 Demo GitHub Repositories in Computer Programming II](https://github.com/HelloYeew/my-demo-repo)
 - [🐒 MONKE Game](https://github.com/HelloYeew/monke-game)
 - [🐦 Flappydot](https://github.com/pontakornth/flappydot)
 - [🎮 Pacman Boi](https://github.com/HelloYeew/pacman-boi)
