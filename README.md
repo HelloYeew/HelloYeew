@@ -32,10 +32,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Flutterish/Hitokori/pull/23) in [Flutterish/Hitokori](https://github.com/Flutterish/Hitokori)
-2. ❗️ Opened issue [#13388](https://github.com/ppy/osu/issues/13388) in [ppy/osu](https://github.com/ppy/osu)
-3. 🎉 Merged PR [#6](https://github.com/Rurusetto/rurusetto-build/pull/6) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
-4. 💪 Opened PR [#6](https://github.com/Rurusetto/rurusetto-build/pull/6) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
+1. 💪 Opened PR [#29](https://github.com/Rurusetto/rurusetto/pull/29) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+2. 💪 Opened PR [#23](https://github.com/Flutterish/Hitokori/pull/23) in [Flutterish/Hitokori](https://github.com/Flutterish/Hitokori)
+3. ❗️ Opened issue [#13388](https://github.com/ppy/osu/issues/13388) in [ppy/osu](https://github.com/ppy/osu)
+4. 🎉 Merged PR [#6](https://github.com/Rurusetto/rurusetto-build/pull/6) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
