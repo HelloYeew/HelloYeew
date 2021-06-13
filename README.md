@@ -32,10 +32,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Rurusetto/rurusetto/pull/29) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-2. 💪 Opened PR [#29](https://github.com/Rurusetto/rurusetto/pull/29) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-3. 💪 Opened PR [#23](https://github.com/Flutterish/Hitokori/pull/23) in [Flutterish/Hitokori](https://github.com/Flutterish/Hitokori)
-4. ❗️ Opened issue [#13388](https://github.com/ppy/osu/issues/13388) in [ppy/osu](https://github.com/ppy/osu)
+1. 🗣 Commented on [#1](https://github.com/HelloYeew/my-custom-discord-rich-presence/issues/1) in [HelloYeew/my-custom-discord-rich-presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
+2. 🎉 Merged PR [#29](https://github.com/Rurusetto/rurusetto/pull/29) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+3. 💪 Opened PR [#29](https://github.com/Rurusetto/rurusetto/pull/29) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+4. 💪 Opened PR [#23](https://github.com/Flutterish/Hitokori/pull/23) in [Flutterish/Hitokori](https://github.com/Flutterish/Hitokori)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
