@@ -32,10 +32,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Rurusetto/rurusetto-build/pull/7) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
-2. 💪 Opened PR [#7](https://github.com/Rurusetto/rurusetto-build/pull/7) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
-3. 🗣 Commented on [#1](https://github.com/HelloYeew/my-custom-discord-rich-presence/issues/1) in [HelloYeew/my-custom-discord-rich-presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
-4. 🎉 Merged PR [#29](https://github.com/Rurusetto/rurusetto/pull/29) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. 💪 Opened PR [#31](https://github.com/Rurusetto/rurusetto/pull/31) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+2. 🗣 Commented on [#30](https://github.com/Rurusetto/rurusetto/issues/30) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+3. 🎉 Merged PR [#7](https://github.com/Rurusetto/rurusetto-build/pull/7) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
+4. 💪 Opened PR [#7](https://github.com/Rurusetto/rurusetto-build/pull/7) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
