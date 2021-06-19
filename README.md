@@ -7,7 +7,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">![Kasumi Hello](kasumihello.gif)</a>
 # Hi, I'm HelloYeew. 👋
 
-<p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat-square" alt="HelloYeew" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat-square" alt="HelloYeew" /> <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
 
 - 🌱 Currently study year 1 to 2 in Software and Knowledge Engineering at Kasetsart University.
 - 🚙 Normally I always sit with my MacBook Pro AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
