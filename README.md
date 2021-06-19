@@ -10,7 +10,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat-square" alt="HelloYeew" /></p>
 
 - 🌱 Currently study year 1 to 2 in Software and Knowledge Engineering at Kasetsart University.
-- 🚙 Normally I always sit with my MacBook Pro with Photoshop AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
+- 🚙 Normally I always sit with my MacBook Pro AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
 - 🎯 My Goals : Work on something that I love and at my favorite country!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
