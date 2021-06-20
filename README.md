@@ -88,6 +88,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [🎮 Space Boi](https://github.com/HelloYeew/space-boi)
 - [🧺 Basket Boi](https://github.com/HelloYeew/basket-boi)
 
+![](https://hit.yhype.me/github/profile?user_id=68165621)
 <!--
 **HelloYeew/HelloYeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
