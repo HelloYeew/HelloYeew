@@ -54,7 +54,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [📘 My Personal Blog](https://github.com/HelloYeew/helloyeew-blog)
 - [🏡 My Digital Garden](https://github.com/HelloYeew/helloyeew-digital-garden)
 
-## My Project
+<!-- ## My Project
 
 **Active Project :**
 
@@ -66,7 +66,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 
 - [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
-- [❣️ Ban P'To Discord Bot](https://github.com/HelloYeew/ban-pto-family-bot) (Very dirty code)
+- [❣️ Ban P'To Discord Bot](https://github.com/HelloYeew/ban-pto-family-bot) (Very dirty code) -->
 
 ## My Website
 
