@@ -38,7 +38,7 @@
 4. 💪 Opened PR [#9](https://github.com/Rurusetto/rurusetto-build/pull/9) in [Rurusetto/rurusetto-build](https://github.com/Rurusetto/rurusetto-build)
 <!--END_SECTION:activity-->
 
-## My Personal Repositories
+<!-- ## My Personal Repositories
 
 - [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup)
 
@@ -54,7 +54,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [📘 My Personal Blog](https://github.com/HelloYeew/helloyeew-blog)
 - [🏡 My Digital Garden](https://github.com/HelloYeew/helloyeew-digital-garden)
 
-<!-- ## My Project
+## My Project
 
 **Active Project :**
 
