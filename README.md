@@ -32,10 +32,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/HelloYeew/taiko-rust/issues/1) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
-2. 🎉 Merged PR [#2](https://github.com/HelloYeew/taiko-rust/pull/2) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
-3. 💪 Opened PR [#2](https://github.com/HelloYeew/taiko-rust/pull/2) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
-4. ❗️ Opened issue [#1](https://github.com/HelloYeew/taiko-rust/issues/1) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
+1. ❗️ Opened issue [#3](https://github.com/HelloYeew/taiko-rust/issues/3) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
+2. ❗️ Closed issue [#1](https://github.com/HelloYeew/taiko-rust/issues/1) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
+3. 🎉 Merged PR [#2](https://github.com/HelloYeew/taiko-rust/pull/2) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
+4. 💪 Opened PR [#2](https://github.com/HelloYeew/taiko-rust/pull/2) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
 <!--END_SECTION:activity-->
 
 <!-- ## My Personal Repositories
