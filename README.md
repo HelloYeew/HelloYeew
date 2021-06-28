@@ -32,10 +32,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Rurusetto/rurusetto/pull/34) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-2. 💪 Opened PR [#34](https://github.com/Rurusetto/rurusetto/pull/34) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-3. 🎉 Merged PR [#33](https://github.com/Rurusetto/rurusetto/pull/33) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-4. 🗣 Commented on [#33](https://github.com/Rurusetto/rurusetto/issues/33) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. ❗️ Opened issue [#1](https://github.com/HelloYeew/taiko-rust/issues/1) in [HelloYeew/taiko-rust](https://github.com/HelloYeew/taiko-rust)
+2. 🎉 Merged PR [#34](https://github.com/Rurusetto/rurusetto/pull/34) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+3. 💪 Opened PR [#34](https://github.com/Rurusetto/rurusetto/pull/34) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+4. 🎉 Merged PR [#33](https://github.com/Rurusetto/rurusetto/pull/33) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
 <!--END_SECTION:activity-->
 
 <!-- ## My Personal Repositories
