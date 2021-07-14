@@ -74,9 +74,9 @@ All of my projects (and my journal too) I always update in this repositories so 
 - <s>[blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog ([repo](https://github.com/HelloYeew/helloyeew-blog))</s> Migrating to new site and posting something to it
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden))
   
-## My repositories in SKE
+<!-- ## My repositories in SKE -->
 
-**Year 1**
+<!-- **Year 1** -->
 <!-- 
 - [🔥 Computer Programming I](https://github.com/HelloYeew/helloyeew-computer-programming-i)
 - [🔥 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-i)
@@ -88,7 +88,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [🎮 Space Boi](https://github.com/HelloYeew/space-boi)
 - [🧺 Basket Boi](https://github.com/HelloYeew/basket-boi) -->
 
-- [🔥 Computer Programming I](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<!-- - [🔥 Computer Programming I](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [🔥 Laboratory of Computer Programming I](https://www.youtube.com/watch?v=v1POP-m76ac)
 - [🐳 Computer Programming II](https://www.youtube.com/watch?v=2OfJYisHbkI)
 - [🐳 Laboratory of Computer Programming II](https://youtu.be/O1CV1Uc1Tq0)
@@ -98,7 +98,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [🎮 Space Boi](https://youtu.be/rgtXeCXHklY)
 - [🧺 Basket Boi](https://youtu.be/doEqUhFiQS4)
 
-<p>¯\_(ツ)_/¯ Will change back later.</p>
+<p>¯\_(ツ)_/¯ Will change back later.</p> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=68165621)
 <!--
