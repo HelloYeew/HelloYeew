@@ -20,6 +20,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HelloYeew&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+
 ## 💬 Connect with me
 
 <a href="https://helloyeew.dev"><img src="icon/globe.svg" alt="Website" width="22" height="22" style="vertical-align:middle"></a>
