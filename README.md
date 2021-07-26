@@ -73,7 +73,7 @@ All of my projects (and my journal too) I always update in this repositories so 
 ## My Website
 
 - [helloyeew.dev](https://helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev))
-- <s>[blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog ([repo](https://github.com/HelloYeew/helloyeew-blog))</s> Migrating to new site and posting something to it
+- [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog ([repo](https://github.com/HelloYeew/new-blog)) : Currently blank
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden))
   
 <!-- ## My repositories in SKE -->
