@@ -4,15 +4,20 @@
 
 <!-- ![HelloYeew's github stats](https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact) -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">![Kasumi Hello](kasumihello.gif)</a>
-# Hi, I'm HelloYeew. 👋
+
+<h2>👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
 
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat&color=ff66aa" alt="HelloYeew" /> <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
 
+I'm software developer student.
+
 - 🌱 Currently study year 2 in Software and Knowledge Engineering at Kasetsart University.
-- 🚙 Normally I always sit with my MacBook Pro AH↗️ HA↘️ HA↗️ HA↘️ HA↗️.
-- 🔭 I’m currently working on [Rūrusetto](https://github.com/Rurusetto/rurusetto)
-- 🎯 My Goals : Work on something that I love and at my favorite country!
+- 🔭 I’m currently working on revamping [Rūrusetto](https://github.com/Rurusetto/rurusetto)
+- 🎯 My Goals : Work on something that I love at my favorite country!
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a>
+
+## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
