@@ -40,8 +40,8 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/Rurusetto/rurusetto/pull/40) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-2. ❗️ Opened issue [#39](https://github.com/Rurusetto/rurusetto/issues/39) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. 💪 Opened PR [#41](https://github.com/Rurusetto/rurusetto/pull/41) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+2. 🎉 Merged PR [#40](https://github.com/Rurusetto/rurusetto/pull/40) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
 3. 🗣 Commented on [#5823](https://github.com/ppy/osu-wiki/issues/5823) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
 4. 🎉 Merged PR [#36](https://github.com/Rurusetto/rurusetto/pull/36) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
 <!--END_SECTION:activity-->
