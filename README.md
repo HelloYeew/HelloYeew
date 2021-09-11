@@ -11,7 +11,7 @@
 
 I'm software developer student.
 
-- 🌱 Currently study year 2 in Software and Knowledge Engineering at Kasetsart University.
+- 🌱 Currently study a sophomore in Software and Knowledge Engineering at Kasetsart University.
 - 🔭 I’m currently working on revamping [Rūrusetto](https://github.com/Rurusetto/rurusetto)
 - 🎯 My Goals : Work on something that I love at my favorite country!
 
