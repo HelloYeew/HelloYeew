@@ -40,10 +40,10 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/HelloYeew/ku-cafe/issues/3) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
-2. 🗣 Commented on [#3](https://github.com/HelloYeew/ku-cafe/issues/3) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
-3. 🎉 Merged PR [#1](https://github.com/HelloYeew/ku-cafe/pull/1) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
-4. 🗣 Commented on [#1](https://github.com/HelloYeew/ku-cafe/issues/1) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
+1. 🎉 Merged PR [#6](https://github.com/HelloYeew/ku-cafe/pull/6) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
+2. 💪 Opened PR [#6](https://github.com/HelloYeew/ku-cafe/pull/6) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
+3. 🗣 Commented on [#3](https://github.com/HelloYeew/ku-cafe/issues/3) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
+4. 🗣 Commented on [#3](https://github.com/HelloYeew/ku-cafe/issues/3) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
 <!--END_SECTION:activity-->
 
 <!-- ## My Personal Repositories
