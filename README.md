@@ -40,10 +40,10 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/HelloYeew/ku-cafe/pull/1) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
-2. 🎉 Merged PR [#61](https://github.com/Rurusetto/rurusetto/pull/61) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-3. 💪 Opened PR [#61](https://github.com/Rurusetto/rurusetto/pull/61) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-4. 🎉 Merged PR [#60](https://github.com/Rurusetto/rurusetto/pull/60) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. 🗣 Commented on [#3](https://github.com/HelloYeew/ku-cafe/issues/3) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
+2. 🗣 Commented on [#3](https://github.com/HelloYeew/ku-cafe/issues/3) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
+3. 🎉 Merged PR [#1](https://github.com/HelloYeew/ku-cafe/pull/1) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
+4. 🗣 Commented on [#1](https://github.com/HelloYeew/ku-cafe/issues/1) in [HelloYeew/ku-cafe](https://github.com/HelloYeew/ku-cafe)
 <!--END_SECTION:activity-->
 
 <!-- ## My Personal Repositories
