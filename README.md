@@ -25,6 +25,9 @@ I'm software developer student.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HelloYeew&theme=tokyonight&layout=compact" />
+</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HelloYeew&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
