@@ -17,6 +17,12 @@ I'm software developer student.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a>
 
+## 🍂 Hacktoberfest 2021
+
+Here is a repositories list of the repositories that join in Hacktoberfest 2021 and I am the maintainer. If you want to contribute or confuse during the contribution you can contact me privately in the contributor guideline of each repositories.
+
+- [rurusetto](https://github.com/Rurusetto/rurusetto/) : A wiki that contain all osu! rulesets (Django)
+
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
