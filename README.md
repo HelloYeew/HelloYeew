@@ -5,6 +5,12 @@
 <!-- ![HelloYeew's github stats](https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact) -->
 
+## 🍂 Hacktoberfest 2021
+
+Here is a repositories list of the repositories that join in Hacktoberfest 2021 and I am the maintainer. If you want to contribute or confuse during the contribution you can contact me privately in the contributor guideline of each repositories.
+
+- [rurusetto](https://github.com/Rurusetto/rurusetto/) : A wiki that contain all osu! rulesets (Django)
+
 <h2>👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
 
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat&color=ff66aa" alt="HelloYeew" /> <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
@@ -16,12 +22,6 @@ I'm software developer student.
 - 🎯 My Goals : Work on something that I love at my favorite country!
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a>
-
-## 🍂 Hacktoberfest 2021
-
-Here is a repositories list of the repositories that join in Hacktoberfest 2021 and I am the maintainer. If you want to contribute or confuse during the contribution you can contact me privately in the contributor guideline of each repositories.
-
-- [rurusetto](https://github.com/Rurusetto/rurusetto/) : A wiki that contain all osu! rulesets (Django)
 
 ## GitHub Stats
 
