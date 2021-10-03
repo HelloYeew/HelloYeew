@@ -49,10 +49,10 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/Rurusetto/rurusetto/issues/93) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-2. 🗣 Commented on [#92](https://github.com/Rurusetto/rurusetto/issues/92) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-3. 🎉 Merged PR [#94](https://github.com/Rurusetto/rurusetto/pull/94) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-4. 🗣 Commented on [#94](https://github.com/Rurusetto/rurusetto/issues/94) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. ❗️ Opened issue [#96](https://github.com/Rurusetto/rurusetto/issues/96) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+2. 🗣 Commented on [#91](https://github.com/Rurusetto/rurusetto/issues/91) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+3. ❗️ Opened issue [#95](https://github.com/Rurusetto/rurusetto/issues/95) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+4. 🎉 Merged PR [#93](https://github.com/Rurusetto/rurusetto/pull/93) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
 <!--END_SECTION:activity-->
 
 <!-- ## My Personal Repositories
