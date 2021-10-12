@@ -49,10 +49,10 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/beattosetto/beattosetto/issues/4) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-2. ❗️ Opened issue [#3](https://github.com/beattosetto/beattosetto/issues/3) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-3. ❗️ Opened issue [#2](https://github.com/beattosetto/beattosetto/issues/2) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-4. ❗️ Opened issue [#1](https://github.com/beattosetto/beattosetto/issues/1) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+1. ❗️ Opened issue [#8](https://github.com/beattosetto/beattosetto/issues/8) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+2. ❗️ Opened issue [#7](https://github.com/beattosetto/beattosetto/issues/7) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+3. ❗️ Opened issue [#6](https://github.com/beattosetto/beattosetto/issues/6) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+4. ❗️ Opened issue [#5](https://github.com/beattosetto/beattosetto/issues/5) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
 <!--END_SECTION:activity-->
 
 <!-- ## My Personal Repositories
