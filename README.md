@@ -5,12 +5,6 @@
 <!-- ![HelloYeew's github stats](https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact) -->
 
-## 🍂 Hacktoberfest 2021
-
-Here is a repositories list of the repositories that join in Hacktoberfest 2021 and I am the maintainer. If you want to contribute or confuse during the contribution you can contact me privately in the contributor guideline of each repositories.
-
-- [rurusetto](https://github.com/Rurusetto/rurusetto/) : A wiki that contain all osu! rulesets (Django)
-
 <h2>👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
 
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat&color=ff66aa" alt="HelloYeew" /> <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
@@ -28,9 +22,6 @@ I'm software developer student.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
-</a> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HelloYeew&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
