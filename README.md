@@ -18,7 +18,7 @@ Here is a repositories list of the repositories that join in Hacktoberfest 2021 
 I'm software developer student.
 
 - 🌱 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
-- 🔭 I’m currently working on revamping [Rūrusetto](https://github.com/Rurusetto/rurusetto)
+- 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto)
 - 🎯 My Goals : Work on something that I love at my favorite country!
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a>
@@ -28,12 +28,9 @@ I'm software developer student.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HelloYeew&theme=tokyonight&layout=compact" />
-</a>
+</a> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HelloYeew&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
