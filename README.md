@@ -37,10 +37,10 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/beattosetto/beattosetto/pull/58) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-2. ❗️ Closed issue [#44](https://github.com/beattosetto/beattosetto/issues/44) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-3. ❗️ Closed issue [#41](https://github.com/beattosetto/beattosetto/issues/41) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-4. ❗️ Closed issue [#43](https://github.com/beattosetto/beattosetto/issues/43) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+1. ❗️ Opened issue [#59](https://github.com/beattosetto/beattosetto/issues/59) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+2. 🎉 Merged PR [#58](https://github.com/beattosetto/beattosetto/pull/58) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+3. ❗️ Closed issue [#44](https://github.com/beattosetto/beattosetto/issues/44) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+4. ❗️ Closed issue [#41](https://github.com/beattosetto/beattosetto/issues/41) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
 <!--END_SECTION:activity-->
 
 <!-- ## My Personal Repositories
