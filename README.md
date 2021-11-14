@@ -12,8 +12,8 @@
 I'm software developer student.
 
 - 🌱 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
-- 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto)
-- 🎯 My Goals : Work on something that I love at my favorite country!
+- 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto)
+- 🎯 My Goals : Work on something that I love at my favorite country! (Maybe Japan? Yes!)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a>
 
