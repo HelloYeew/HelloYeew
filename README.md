@@ -37,10 +37,10 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#104](https://github.com/patkamon/skdue/issues/104) in [patkamon/skdue](https://github.com/patkamon/skdue)
-2. ❗️ Opened issue [#77](https://github.com/ChanunyaO/KU-Lend/issues/77) in [ChanunyaO/KU-Lend](https://github.com/ChanunyaO/KU-Lend)
-3. 🎉 Merged PR [#219](https://github.com/beattosetto/beattosetto/pull/219) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-4. 💪 Opened PR [#219](https://github.com/beattosetto/beattosetto/pull/219) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+1. 🗣 Commented on [#220](https://github.com/beattosetto/beattosetto/issues/220) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+2. ❗️ Opened issue [#104](https://github.com/patkamon/skdue/issues/104) in [patkamon/skdue](https://github.com/patkamon/skdue)
+3. ❗️ Opened issue [#77](https://github.com/ChanunyaO/KU-Lend/issues/77) in [ChanunyaO/KU-Lend](https://github.com/ChanunyaO/KU-Lend)
+4. 🎉 Merged PR [#219](https://github.com/beattosetto/beattosetto/pull/219) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
 <!--END_SECTION:activity-->
 
 <!-- ## My Personal Repositories
