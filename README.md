@@ -43,17 +43,11 @@ I'm software developer student.
 4. ❗️ Opened issue [#104](https://github.com/patkamon/skdue/issues/104) in [patkamon/skdue](https://github.com/patkamon/skdue)
 <!--END_SECTION:activity-->
 
-<!-- ## My Personal Repositories
+## My Personal Repositories
 
 - [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup)
 
-**All of My Projects List**
-
-All of my projects (and my journal too) I always update in this repositories so you can check it. It always have a weird project or project that I just want to do it.
-
-- [✈️ HelloYeew's Journal](https://github.com/HelloYeew/journal)
-
-**Personal Website Repositories**
+<!-- **Personal Website Repositories**
 
 - [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
 - [📘 My Personal Blog](https://github.com/HelloYeew/helloyeew-blog)
@@ -73,7 +67,9 @@ All of my projects (and my journal too) I always update in this repositories so 
 - [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
 - [❣️ Ban P'To Discord Bot](https://github.com/HelloYeew/ban-pto-family-bot) (Very dirty code) -->
 
-## My Website
+## My Personal Website
+
+I have a plan to rewrite it all since I'm beginner there and the code is quite not right.
 
 - [helloyeew.dev](https://helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev))
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog ([repo](https://github.com/HelloYeew/new-blog)) : Currently blank
