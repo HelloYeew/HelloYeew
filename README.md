@@ -37,10 +37,10 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#223](https://github.com/beattosetto/beattosetto/pull/223) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-2. 💪 Opened PR [#223](https://github.com/beattosetto/beattosetto/pull/223) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-3. 🎉 Merged PR [#174](https://github.com/Rurusetto/rurusetto/pull/174) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-4. 🎉 Merged PR [#222](https://github.com/beattosetto/beattosetto/pull/222) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+1. ❗️ Closed issue [#2](https://github.com/HelloYeew/site-uptime-monitor/issues/2) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+2. 🗣 Commented on [#2](https://github.com/HelloYeew/site-uptime-monitor/issues/2) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+3. ❗️ Opened issue [#2](https://github.com/HelloYeew/site-uptime-monitor/issues/2) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. 🎉 Merged PR [#223](https://github.com/beattosetto/beattosetto/pull/223) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
