@@ -1,18 +1,12 @@
-<!--
-### Hi there 👋
--->
-
-<!-- ![HelloYeew's github stats](https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeew&theme=tokyonight&layout=compact) -->
-
 <h2>👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
 
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat&color=ff66aa" alt="HelloYeew" /> <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
 
 I'm software developer student.
 
-- 🌱 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
+- 📖 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
 - 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto)
+- 🌱 I’m currently learning on Japanese language and .NET framework
 - 🎯 My Goals : Work on something that I love at my favorite country! (Maybe Japan? I don't know but looking good!)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a>
@@ -46,26 +40,6 @@ I'm software developer student.
 ## My Personal Repositories
 
 - [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup)
-
-<!-- **Personal Website Repositories**
-
-- [📝 helloyeew.dev](https://github.com/HelloYeew/helloyeew.dev)
-- [📘 My Personal Blog](https://github.com/HelloYeew/helloyeew-blog)
-- [🏡 My Digital Garden](https://github.com/HelloYeew/helloyeew-digital-garden)
-
-## My Project
-
-**Active Project :**
-
-- [🌟 Kasumi](https://github.com/HelloYeew/kasumi)
-- [📘 #Tweetbook](https://github.com/HelloYeew/tweetbook) : Designing and dreaming...
-- [📚 Rūrusetto (ルールセット)](https://github.com/Rurusetto/rurusetto/) : My first officially working open-source with a team
-
-**Rarely Update Project / Stable Project**
-
-- [⚡️ Custom Discord Rich Presence](https://github.com/HelloYeew/my-custom-discord-rich-presence)
-- [🔈 Vtuber Button](https://github.com/HelloYeew/vtuber-button)
-- [❣️ Ban P'To Discord Bot](https://github.com/HelloYeew/ban-pto-family-bot) (Very dirty code) -->
 
 ## My Personal Website
 
