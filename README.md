@@ -37,7 +37,7 @@ I'm software developer student.
 ![Website](icon/globe-dark.svg#gh-light-mode-only)![Website](icon/globe-white.svg#gh-dark-mode-only)
 ![Facebook profiles](icon/facebook-dark.svg#gh-light-mode-only)![Facebook profiles](icon/facebook-white.svg#gh-dark-mode-only)
 ![Twitter profiles](icon/twitter-dark.svg#gh-light-mode-only)![Twitter profiles](icon/twitter-white.svg#gh-dark-mode-only)
-![Instagram profiles](icon/instagram-dark.svg#gh-light-mode-only)![Instagram profiles](icon/instagram-white.svg#gh-dark-mode-only)
+![Instagram profiles](icon/Instagram-dark.svg#gh-light-mode-only)![Instagram profiles](icon/Instagram-white.svg#gh-dark-mode-only)
 ![Linkedin profiles](icon/linkedin-dark.svg#gh-light-mode-only)![Linkedin profiles](icon/linkedin-white.svg#gh-dark-mode-only)
 <a href="https://osu.ppy.sh/users/18735426"><img src="icon/osu.png" alt="osu! profiles" width="22" height="22" style="vertical-align:middle"></a>
 
