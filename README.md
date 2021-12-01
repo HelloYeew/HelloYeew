@@ -27,20 +27,12 @@ I'm software developer student.
 
 ## 💬 Connect with me
 
-<a href="https://helloyeew.dev"><img src="icon/globe.svg" alt="Website" width="22" height="22" style="vertical-align:middle"></a>
-<a href="https://www.facebook.com/HelloYeew/"><img src="icon/facebook.svg" alt="Facebook profiles" width="22" height="22" style="vertical-align:middle"></a>
-<a href="https://twitter.com/nonggummud"><img src="icon/twitter.svg" alt="Twitter profiles" width="22" height="22" style="vertical-align:middle"></a>
-<a href="https://www.instagram.com/ttim.gummud/"><img src="icon/instagram.svg" alt="Instagram profiles" width="22" height="22" style="vertical-align:middle"></a>
-<a href="https://www.linkedin.com/in/phawit-pornwattanakul-a0137a1b4/"><img src="icon/linkedin.svg" alt="Linkedin profiles" width="22" height="22" style="vertical-align:middle"></a>
-<a href="https://osu.ppy.sh/users/18735426"><img src="icon/osu.png" alt="osu! profiles" width="22" height="22" style="vertical-align:middle"></a>
-
 ![Website](icon/globe-dark.svg#gh-light-mode-only)![Website](icon/globe-white.svg#gh-dark-mode-only)
 ![Facebook profiles](icon/facebook-dark.svg#gh-light-mode-only)![Facebook profiles](icon/facebook-white.svg#gh-dark-mode-only)
 ![Twitter profiles](icon/twitter-dark.svg#gh-light-mode-only)![Twitter profiles](icon/twitter-white.svg#gh-dark-mode-only)
 ![Instagram profiles](icon/Instagram-dark.svg#gh-light-mode-only)![Instagram profiles](icon/Instagram-white.svg#gh-dark-mode-only)
 ![Linkedin profiles](icon/linkedin-dark.svg#gh-light-mode-only)![Linkedin profiles](icon/linkedin-white.svg#gh-dark-mode-only)
 <a href="https://osu.ppy.sh/users/18735426"><img src="icon/osu.png" alt="osu! profiles" width="22" height="22" style="vertical-align:middle"></a>
-
 
 ## Latest Activity
 
