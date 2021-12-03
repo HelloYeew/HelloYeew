@@ -31,10 +31,10 @@ I'm software developer student.
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#191](https://github.com/Rurusetto/rurusetto/pull/191) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-2. ❗️ Opened issue [#187](https://github.com/Rurusetto/rurusetto/issues/187) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-3. ❗️ Opened issue [#186](https://github.com/Rurusetto/rurusetto/issues/186) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-4. 🎉 Merged PR [#184](https://github.com/Rurusetto/rurusetto/pull/184) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. 🎉 Merged PR [#192](https://github.com/Rurusetto/rurusetto/pull/192) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+2. 🎉 Merged PR [#191](https://github.com/Rurusetto/rurusetto/pull/191) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+3. 💪 Opened PR [#192](https://github.com/Rurusetto/rurusetto/pull/192) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+4. 💪 Opened PR [#191](https://github.com/Rurusetto/rurusetto/pull/191) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
