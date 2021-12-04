@@ -39,7 +39,7 @@ I'm software developer student.
 
 ## My Personal Repositories
 
-- [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup)
+- [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup) : Will update with the dotfile too
 
 ## My Personal Website
 
