@@ -11,8 +11,6 @@ I'm software developer student.
 
 <!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a> -->
 
-## GitHub Stats
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
 </a>
