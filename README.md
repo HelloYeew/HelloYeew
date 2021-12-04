@@ -9,7 +9,7 @@ I'm software developer student.
 - 🌱 I’m currently learning on Japanese language and .NET framework
 - 🎯 My Goals : Work on something that I love at my favorite country! (Maybe Japan? I don't know but looking good!)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a>
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a> -->
 
 ## GitHub Stats
 
