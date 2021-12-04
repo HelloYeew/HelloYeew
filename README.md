@@ -46,7 +46,7 @@ I'm software developer student.
 I have a plan to rewrite it all since I'm beginner there and the code is quite not right.
 
 - [helloyeew.dev](https://helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev))
-- [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog ([repo](https://github.com/HelloYeew/new-blog)) : Currently blank
+- [blog.helloyeew.dev](https://blog.helloyeew.dev/) : Currently rewriting it myself without copying from another
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden))
   
 <!-- ## My repositories in SKE -->
