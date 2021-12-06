@@ -2,8 +2,6 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat&color=ff66aa" alt="HelloYeew" /> <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
 
-I'm software developer student.
-
 - 📖 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
 - 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto)
 - 🌱 I’m currently learning on Japanese language and .NET framework
