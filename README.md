@@ -9,13 +9,22 @@ I'm software developer student.
 - 🌱 I’m currently learning on Japanese language and .NET framework
 - 🎯 My Goals : Work on something that I love at my favorite country!
 
-<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HelloYeew/HelloYeew/blob/main/kasumihello.gif?raw=true" height="200px" width="200px"></a> -->
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=HelloYeew&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
-</a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HelloYeew&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HelloYeew&theme=onedark&hide_border=true" alt="HelloYeew's GitHub stats" /></a>
+    </td>
+  <tr>
+</table>
 
 ## 💬 Connect with me
 
