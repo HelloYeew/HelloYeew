@@ -45,7 +45,7 @@
 
 ## My Personal Repositories
 
-- [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup) : Will update with the dotfile too
+- [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup) : Will update with the dotfile in this repo or make it seperately
 
 ## My Personal Website
 
