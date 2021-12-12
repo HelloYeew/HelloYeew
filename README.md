@@ -54,6 +54,7 @@ I have a plan to rewrite it all since I'm beginner there and the code is quite n
 - [helloyeew.dev](https://www.helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev)), will replace some page
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : Currently rewriting it myself without copying from another
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden)), currently will revamp soon
+- taiko (Currently learning to make it happened)
   
 <!-- ## My repositories in SKE -->
 
