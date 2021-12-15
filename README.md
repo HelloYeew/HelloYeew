@@ -4,7 +4,7 @@
 
 - 📖 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
 - 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto)
-- 🌱 I’m currently learning on Japanese language and .NET framework
+- 🌱 I’m currently learning on Japanese language ,.NET framework and some backend stuff
 - 🎯 My Goals : Work on something that I love at my favorite country!
 
 <p align="center">
