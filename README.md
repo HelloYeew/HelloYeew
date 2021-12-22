@@ -52,7 +52,7 @@
 I have a plan to rewrite it all since I'm beginner there and the code is quite not right.
 
 - [helloyeew.dev](https://www.helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev)), will replace some page
-- [blog.helloyeew.dev](https://blog.helloyeew.dev/) : Currently rewriting it myself without copying from another and currently blank([repo](https://github.com/HelloYeew/blog))
+- [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog that I want to write some personal stuff([repo](https://github.com/HelloYeew/blog))
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden)), currently will revamp soon
 - taiko (Currently learning to make it happened. Start on initial design.)
 
