@@ -55,32 +55,6 @@ I have a plan to rewrite it all since I'm beginner there and the code is quite n
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : Currently rewriting it myself without copying from another and currently blank([repo](https://github.com/HelloYeew/blog))
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden)), currently will revamp soon
 - taiko (Currently learning to make it happened. Start on initial design.)
-  
-<!-- ## My repositories in SKE -->
-
-<!-- **Year 1** -->
-<!-- 
-- [🔥 Computer Programming I](https://github.com/HelloYeew/helloyeew-computer-programming-i)
-- [🔥 Laboratory of Computer Programming I](https://github.com/HelloYeew/helloyeew-lab-computer-programming-i)
-- [🐳 Computer Programming II](https://github.com/HelloYeew/helloyeew-computer-programming-ii)
-- [🐳 Laboratory of Computer Programming II](https://github.com/HelloYeew/helloyeew-lab-computer-programming-ii)
-- [🐒 MONKE Game](https://github.com/HelloYeew/monke-game)
-- [🐦 Flappydot](https://github.com/pontakornth/flappydot)
-- [🎮 Pacman Boi](https://github.com/HelloYeew/pacman-boi)
-- [🎮 Space Boi](https://github.com/HelloYeew/space-boi)
-- [🧺 Basket Boi](https://github.com/HelloYeew/basket-boi) -->
-
-<!-- - [🔥 Computer Programming I](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [🔥 Laboratory of Computer Programming I](https://www.youtube.com/watch?v=v1POP-m76ac)
-- [🐳 Computer Programming II](https://www.youtube.com/watch?v=2OfJYisHbkI)
-- [🐳 Laboratory of Computer Programming II](https://youtu.be/O1CV1Uc1Tq0)
-- [🐒 MONKE Game](https://youtu.be/Vxky2bBvmZo)
-- [🐦 Flappydot](https://youtu.be/JB3INq8n9is)
-- [🎮 Pacman Boi](https://youtu.be/pJKrDUQc6No)
-- [🎮 Space Boi](https://youtu.be/rgtXeCXHklY)
-- [🧺 Basket Boi](https://youtu.be/doEqUhFiQS4)
-
-<p>¯\_(ツ)_/¯ Will change back later.</p> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=68165621)
 <!--
