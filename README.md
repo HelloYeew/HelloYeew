@@ -3,7 +3,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat&color=ff66aa" alt="HelloYeew" /> <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
 
 - 📖 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
-- 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto). Mainly working on issues on [Rūrusetto](https://github.com/Rurusetto/rurusetto)
+- 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto). Mainly working on issues in [Rūrusetto](https://github.com/Rurusetto/rurusetto)
 - 🌱 I’m currently learning on Japanese language ,.NET framework and some backend stuff
 - 🎯 My Goals : Work on something that I love at my favorite country!
 
