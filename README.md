@@ -53,7 +53,7 @@ I have a plan to rewrite it all since I'm beginner there and the code is quite n
 
 - [helloyeew.dev](https://www.helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev)), will replace some page
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog that I want to write some personal stuff([repo](https://github.com/HelloYeew/blog))
-- [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden)), currently will revamp soon
+- [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden)), currently will continue the development on this.
 - taiko (Currently learning to make it happened. Start on initial design.)
 
 ![](https://hit.yhype.me/github/profile?user_id=68165621)
