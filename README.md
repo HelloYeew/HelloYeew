@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/Rurusetto/rurusetto/pull/210) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-2. ❗️ Closed issue [#3](https://github.com/HelloYeew/site-uptime-monitor/issues/3) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-3. 🗣 Commented on [#3](https://github.com/HelloYeew/site-uptime-monitor/issues/3) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-4. ❗️ Reopened issue [#3](https://github.com/HelloYeew/site-uptime-monitor/issues/3) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+1. 🎉 Merged PR [#203](https://github.com/Rurusetto/rurusetto/pull/203) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+2. 🎉 Merged PR [#210](https://github.com/Rurusetto/rurusetto/pull/210) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+3. 💪 Opened PR [#210](https://github.com/Rurusetto/rurusetto/pull/210) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+4. ❗️ Closed issue [#3](https://github.com/HelloYeew/site-uptime-monitor/issues/3) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
