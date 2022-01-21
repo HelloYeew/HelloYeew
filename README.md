@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#239](https://github.com/beattosetto/beattosetto/pull/239) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-2. ❗️ Closed issue [#89](https://github.com/Rurusetto/rurusetto/issues/89) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-3. ❗️ Closed issue [#185](https://github.com/Rurusetto/rurusetto/issues/185) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-4. 🎉 Merged PR [#229](https://github.com/Rurusetto/rurusetto/pull/229) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. 🎉 Merged PR [#4](https://github.com/HelloYeew/blog-hexo/pull/4) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
+2. 💪 Opened PR [#239](https://github.com/beattosetto/beattosetto/pull/239) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+3. ❗️ Closed issue [#89](https://github.com/Rurusetto/rurusetto/issues/89) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+4. ❗️ Closed issue [#185](https://github.com/Rurusetto/rurusetto/issues/185) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
