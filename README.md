@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
 
-<p><img src="https://komarev.com/ghpvc/?username=HelloYeew0&style=flat&color=ff66aa" alt="HelloYeew" /> <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
+<a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
 
 - 📖 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
 - 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto). Mainly working on issues and maintain the dependencies in [Rūrusetto](https://github.com/Rurusetto/rurusetto)
