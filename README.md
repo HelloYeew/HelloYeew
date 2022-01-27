@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-2. 🎉 Merged PR [#2](https://github.com/HelloYeew/blog-hexo/pull/2) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
-3. 🎉 Merged PR [#3](https://github.com/HelloYeew/blog-hexo/pull/3) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
-4. 🎉 Merged PR [#1](https://github.com/Rurusetto/rurusetto-django-allauth/pull/1) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
+1. 🗣 Commented on [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+2. ❗️ Closed issue [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+3. ❗️ Opened issue [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. 🎉 Merged PR [#2](https://github.com/HelloYeew/blog-hexo/pull/2) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
