@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/HelloYeew/blog-hexo/pull/3) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
-2. 🎉 Merged PR [#1](https://github.com/Rurusetto/rurusetto-django-allauth/pull/1) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
-3. 💪 Opened PR [#1](https://github.com/Rurusetto/rurusetto-django-allauth/pull/1) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
-4. 🎉 Merged PR [#4](https://github.com/HelloYeew/blog-hexo/pull/4) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
+1. 🎉 Merged PR [#2](https://github.com/HelloYeew/blog-hexo/pull/2) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
+2. 🎉 Merged PR [#3](https://github.com/HelloYeew/blog-hexo/pull/3) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
+3. 🎉 Merged PR [#1](https://github.com/Rurusetto/rurusetto-django-allauth/pull/1) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
+4. 💪 Opened PR [#1](https://github.com/Rurusetto/rurusetto-django-allauth/pull/1) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
