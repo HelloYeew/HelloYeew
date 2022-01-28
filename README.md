@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-2. ❗️ Closed issue [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-3. ❗️ Opened issue [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-4. 🎉 Merged PR [#2](https://github.com/HelloYeew/blog-hexo/pull/2) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
+1. 🎉 Merged PR [#244](https://github.com/Rurusetto/rurusetto/pull/244) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+2. 🗣 Commented on [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+3. ❗️ Closed issue [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. ❗️ Opened issue [#5](https://github.com/HelloYeew/site-uptime-monitor/issues/5) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
