@@ -30,7 +30,7 @@
 <a href="https://www.facebook.com/HelloYeew/"><img src="icon/facebook-pink.svg" alt="Facebook profiles" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://twitter.com/nonggummud"><img src="icon/twitter-pink.svg" alt="Twitter profiles" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://www.instagram.com/ttim.gummud/"><img src="icon/instagram-pink.svg" alt="Instagram profiles" width="22" height="22" style="vertical-align:middle"></a>
-<a href="https://www.linkedin.com/in/phawit-pornwattanakul-a0137a1b4/"><img src="icon/linkedin-pink.svg" alt="Linkedin profiles" width="22" height="22" style="vertical-align:middle"></a>
+<a href="https://www.linkedin.com/in/helloyeew"><img src="icon/linkedin-pink.svg" alt="Linkedin profiles" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://www.last.fm/user/HelloYeew"><img src="icon/lastfm-pink.svg" alt="Last.fm profiles" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://osu.ppy.sh/users/18735426"><img src="icon/osu.png" alt="osu! profiles" width="22" height="22" style="vertical-align:middle"></a>
 
