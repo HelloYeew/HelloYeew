@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#245](https://github.com/beattosetto/beattosetto/pull/245) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-2. 🎉 Merged PR [#2](https://github.com/HelloYeew/mamizu-api/pull/2) in [HelloYeew/mamizu-api](https://github.com/HelloYeew/mamizu-api)
-3. 🎉 Merged PR [#1](https://github.com/HelloYeew/mamizu-api/pull/1) in [HelloYeew/mamizu-api](https://github.com/HelloYeew/mamizu-api)
-4. 🎉 Merged PR [#240](https://github.com/beattosetto/beattosetto/pull/240) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+1. 🎉 Merged PR [#239](https://github.com/beattosetto/beattosetto/pull/239) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+2. 🎉 Merged PR [#245](https://github.com/beattosetto/beattosetto/pull/245) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+3. 🎉 Merged PR [#2](https://github.com/HelloYeew/mamizu-api/pull/2) in [HelloYeew/mamizu-api](https://github.com/HelloYeew/mamizu-api)
+4. 🎉 Merged PR [#1](https://github.com/HelloYeew/mamizu-api/pull/1) in [HelloYeew/mamizu-api](https://github.com/HelloYeew/mamizu-api)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
