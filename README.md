@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#239](https://github.com/beattosetto/beattosetto/pull/239) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-2. 🎉 Merged PR [#245](https://github.com/beattosetto/beattosetto/pull/245) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-3. 🎉 Merged PR [#2](https://github.com/HelloYeew/mamizu-api/pull/2) in [HelloYeew/mamizu-api](https://github.com/HelloYeew/mamizu-api)
-4. 🎉 Merged PR [#1](https://github.com/HelloYeew/mamizu-api/pull/1) in [HelloYeew/mamizu-api](https://github.com/HelloYeew/mamizu-api)
+1. ❗️ Closed issue [#7](https://github.com/HelloYeew/site-uptime-monitor/issues/7) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+2. 🗣 Commented on [#7](https://github.com/HelloYeew/site-uptime-monitor/issues/7) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+3. ❗️ Opened issue [#7](https://github.com/HelloYeew/site-uptime-monitor/issues/7) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. 🎉 Merged PR [#239](https://github.com/beattosetto/beattosetto/pull/239) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
