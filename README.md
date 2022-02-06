@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#242](https://github.com/beattosetto/beattosetto/pull/242) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-2. 🗣 Commented on [#244](https://github.com/beattosetto/beattosetto/issues/244) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-3. 🎉 Merged PR [#246](https://github.com/beattosetto/beattosetto/pull/246) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-4. ❗️ Closed issue [#7](https://github.com/HelloYeew/site-uptime-monitor/issues/7) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+1. 🗣 Commented on [#1](https://github.com/natchanon-space/backend-assignment/issues/1) in [natchanon-space/backend-assignment](https://github.com/natchanon-space/backend-assignment)
+2. 🎉 Merged PR [#242](https://github.com/beattosetto/beattosetto/pull/242) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+3. 🗣 Commented on [#244](https://github.com/beattosetto/beattosetto/issues/244) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+4. 🎉 Merged PR [#246](https://github.com/beattosetto/beattosetto/pull/246) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
