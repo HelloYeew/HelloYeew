@@ -37,7 +37,7 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/natchanon-space/backend-assignment/issues/3) in [natchanon-space/backend-assignment](https://github.com/natchanon-space/backend-assignment)
+1. 💪 Opened PR [#117](https://github.com/Game4all/gamebosu/pull/117) in [Game4all/gamebosu](https://github.com/Game4all/gamebosu)
 2. 🗣 Commented on [#3](https://github.com/natchanon-space/backend-assignment/issues/3) in [natchanon-space/backend-assignment](https://github.com/natchanon-space/backend-assignment)
 3. 🗣 Commented on [#3](https://github.com/natchanon-space/backend-assignment/issues/3) in [natchanon-space/backend-assignment](https://github.com/natchanon-space/backend-assignment)
 4. 🗣 Commented on [#3](https://github.com/natchanon-space/backend-assignment/issues/3) in [natchanon-space/backend-assignment](https://github.com/natchanon-space/backend-assignment)
