@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/HelloYeew/site-uptime-monitor/issues/8) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-2. ❗️ Closed issue [#8](https://github.com/HelloYeew/site-uptime-monitor/issues/8) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-3. ❗️ Opened issue [#8](https://github.com/HelloYeew/site-uptime-monitor/issues/8) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-4. 🎉 Merged PR [#3](https://github.com/HelloYeew/mamizu-api/pull/3) in [HelloYeew/mamizu-api](https://github.com/HelloYeew/mamizu-api)
+1. ❗️ Closed issue [#9](https://github.com/HelloYeew/site-uptime-monitor/issues/9) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+2. 🗣 Commented on [#9](https://github.com/HelloYeew/site-uptime-monitor/issues/9) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+3. ❗️ Opened issue [#9](https://github.com/HelloYeew/site-uptime-monitor/issues/9) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. 🗣 Commented on [#8](https://github.com/HelloYeew/site-uptime-monitor/issues/8) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
