@@ -1,6 +1,7 @@
 <h2>👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
 
-<a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="HelloYeew's GitHub stats" /></a></p>
+<a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="Codestat" /></a></p>
+<a href="https://peerlist.io/helloyeew"><img src="https://img.shields.io/badge/Peerlist-helloyeew-brightgreen" alt="Peerlist" /></a></p>
 
 - 📖 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
 - 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto). Mainly working on issues and maintain the dependencies in [Rūrusetto](https://github.com/Rurusetto/rurusetto)
