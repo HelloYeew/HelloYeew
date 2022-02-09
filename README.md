@@ -37,10 +37,10 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/HelloYeew/site-uptime-monitor/issues/9) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-2. 🗣 Commented on [#9](https://github.com/HelloYeew/site-uptime-monitor/issues/9) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-3. ❗️ Opened issue [#9](https://github.com/HelloYeew/site-uptime-monitor/issues/9) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-4. 🗣 Commented on [#8](https://github.com/HelloYeew/site-uptime-monitor/issues/8) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+1. ❗️ Closed issue [#10](https://github.com/HelloYeew/site-uptime-monitor/issues/10) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+2. 🗣 Commented on [#10](https://github.com/HelloYeew/site-uptime-monitor/issues/10) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+3. ❗️ Opened issue [#10](https://github.com/HelloYeew/site-uptime-monitor/issues/10) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. ❗️ Closed issue [#9](https://github.com/HelloYeew/site-uptime-monitor/issues/9) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
