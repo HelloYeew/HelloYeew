@@ -56,7 +56,7 @@ I have a plan to rewrite it all since I'm beginner there and the code is quite n
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog that I want to write some personal stuff ([repo](https://github.com/HelloYeew/blog)). Currently want to make more styling and the markdown render styling is still not right.
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden)), currently will continue the development on this.
 - [mamizu-api](https://github.com/HelloYeew/mamizu-api) : My personal API to make some stuff easier, target to make all of my personal tool sync on this.
-- [maisim](https://github.com/HelloYeew/maisim) : The repo is still in secret but will be revealed soon.
+- [maisim](https://github.com/HelloYeew/maisim) : A free and open-source, community-powered clone of SEGA's Maimai game powered by the osu!framework.
 
 ![](https://hit.yhype.me/github/profile?user_id=68165621)
 <!--
