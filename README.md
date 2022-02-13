@@ -52,7 +52,7 @@
 
 I have a plan to rewrite it all since I'm beginner there and the code is quite not right.
 
-- [helloyeew.dev](https://www.helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/old-helloyeew.dev)), currently rewriting using new design that I design [here](https://github.com/HelloYeew/helloyeew.dev), will replace it with the old one soon.
+- [helloyeew.dev](https://www.helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev))
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog that I want to write some personal stuff ([repo](https://github.com/HelloYeew/blog)). Currently want to make more styling and the markdown render styling is still not right.
 - [garden.helloyeew.dev](https://garden.helloyeew.dev/) : My Digital Garden ([repo](https://github.com/HelloYeew/helloyeew-digital-garden)), currently will continue the development on this.
 - [mamizu-api](https://github.com/HelloYeew/mamizu-api) : My personal API to make some stuff easier, target to make all of my personal tool sync on this.
