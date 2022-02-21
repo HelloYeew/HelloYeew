@@ -39,6 +39,7 @@
 
 <!-- lastfm -->
 <p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4d8e811740f87d1b1d880777fcb65da0.jpg" title="Nhato - TRACE OF WILL"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/07977695d3114433b96074320609b8d8.jpg" title="Galneryus - Under the Force of Courage"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/78b87981c50d419daa1c868f107c39c6.jpg" title="Nano - N"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/da6a17519583140a61802b18cdf9f942.png" title="Wake Up, Girls! - スキノスキル"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9b6dcb19e9c8ac71b80113eed6845c97.jpg" title="森羅万象 - シンラミュージアム2号館"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/558078d389d1458d8c2af97fa744dc85.png" title="Dragon Guardian - 聖魔剣ヴァルキュリアス"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/05c84371ea35730151a4c684cbbff421.jpg" title="Neko Hacker - Neko Hacker"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b35bbabd8def085f35075999a5a8e8ac.jpg" title="ねこのみかん - Global Girls Generation"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c71e92a4a88e6fbbaa0db8c0950fdabb.jpg" title="Alstroemeria Records - 10th Anniversary Bad Apple!!"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/6232050ae779672a931f52522370fa82.jpg" title="BanG Dream! バンドリ！ - Anfang"> </p>
+
 ## Latest Activity
 
 <!--START_SECTION:activity-->
