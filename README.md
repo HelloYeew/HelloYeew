@@ -35,6 +35,10 @@
 <a href="https://www.last.fm/user/HelloYeew"><img src="icon/lastfm-pink.svg" alt="Last.fm profiles" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://osu.ppy.sh/users/18735426"><img src="icon/osu.png" alt="osu! profiles" width="22" height="22" style="vertical-align:middle"></a>
 
+## 🎵 Albums I've listened the most this week
+
+<!-- lastfm -->
+
 ## Latest Activity
 
 <!--START_SECTION:activity-->
@@ -46,11 +50,9 @@
 
 ## My Personal Repositories
 
-- [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup) : Will update with the dotfile in this repo or make it seperately
+- [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup)
 
 ## My Personal Website & Project
-
-I have a plan to rewrite it all since I'm beginner there and the code is quite not right.
 
 - [helloyeew.dev](https://www.helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev))
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog that I want to write some personal stuff ([repo](https://github.com/HelloYeew/blog)). Currently want to make more styling and the markdown render styling is still not right.
