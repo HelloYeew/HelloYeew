@@ -43,10 +43,10 @@
 ## 🏃 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/HelloYeew/maisim/pull/19) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-2. 🗣 Commented on [#3](https://github.com/natchanon-space/backend-assignment/issues/3) in [natchanon-space/backend-assignment](https://github.com/natchanon-space/backend-assignment)
-3. 💪 Opened PR [#18](https://github.com/HelloYeew/maisim/pull/18) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-4. 💪 Opened PR [#17](https://github.com/HelloYeew/maisim/pull/17) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+1. ❗️ Closed issue [#15](https://github.com/HelloYeew/site-uptime-monitor/issues/15) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+2. 🗣 Commented on [#15](https://github.com/HelloYeew/site-uptime-monitor/issues/15) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+3. ❗️ Opened issue [#15](https://github.com/HelloYeew/site-uptime-monitor/issues/15) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. 🎉 Merged PR [#19](https://github.com/HelloYeew/maisim/pull/19) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
