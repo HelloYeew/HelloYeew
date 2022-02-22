@@ -43,10 +43,10 @@
 ## 🏃 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/HelloYeew/maisim/pull/18) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-2. 💪 Opened PR [#17](https://github.com/HelloYeew/maisim/pull/17) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-3. 🎉 Merged PR [#2](https://github.com/Rurusetto/rurusetto-django-allauth/pull/2) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
-4. 💪 Opened PR [#2](https://github.com/Rurusetto/rurusetto-django-allauth/pull/2) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
+1. 🗣 Commented on [#3](https://github.com/natchanon-space/backend-assignment/issues/3) in [natchanon-space/backend-assignment](https://github.com/natchanon-space/backend-assignment)
+2. 💪 Opened PR [#18](https://github.com/HelloYeew/maisim/pull/18) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+3. 💪 Opened PR [#17](https://github.com/HelloYeew/maisim/pull/17) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+4. 🎉 Merged PR [#2](https://github.com/Rurusetto/rurusetto-django-allauth/pull/2) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
