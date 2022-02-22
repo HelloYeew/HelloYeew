@@ -43,10 +43,10 @@
 ## 🏃 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rurusetto/rurusetto-django-allauth/pull/2) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
-2. 💪 Opened PR [#2](https://github.com/Rurusetto/rurusetto-django-allauth/pull/2) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
-3. 🎉 Merged PR [#255](https://github.com/Rurusetto/rurusetto/pull/255) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
-4. 🎉 Merged PR [#266](https://github.com/Rurusetto/rurusetto/pull/266) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
+1. 💪 Opened PR [#17](https://github.com/HelloYeew/maisim/pull/17) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+2. 🎉 Merged PR [#2](https://github.com/Rurusetto/rurusetto-django-allauth/pull/2) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
+3. 💪 Opened PR [#2](https://github.com/Rurusetto/rurusetto-django-allauth/pull/2) in [Rurusetto/rurusetto-django-allauth](https://github.com/Rurusetto/rurusetto-django-allauth)
+4. 🎉 Merged PR [#255](https://github.com/Rurusetto/rurusetto/pull/255) in [Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
