@@ -43,10 +43,10 @@
 ## 🏃 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/HelloYeew/site-uptime-monitor/issues/17) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-2. ❗️ Closed issue [#17](https://github.com/HelloYeew/site-uptime-monitor/issues/17) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-3. ❗️ Opened issue [#17](https://github.com/HelloYeew/site-uptime-monitor/issues/17) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
-4. ❗️ Closed issue [#16](https://github.com/HelloYeew/site-uptime-monitor/issues/16) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+1. 🎉 Merged PR [#21](https://github.com/HelloYeew/maisim/pull/21) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+2. 🎉 Merged PR [#20](https://github.com/HelloYeew/maisim/pull/20) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+3. 🗣 Commented on [#17](https://github.com/HelloYeew/site-uptime-monitor/issues/17) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. ❗️ Closed issue [#17](https://github.com/HelloYeew/site-uptime-monitor/issues/17) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
