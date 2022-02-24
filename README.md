@@ -43,10 +43,10 @@
 ## 🏃 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/HelloYeew/maisim/pull/18) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-2. 🎉 Merged PR [#21](https://github.com/HelloYeew/maisim/pull/21) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-3. 🎉 Merged PR [#20](https://github.com/HelloYeew/maisim/pull/20) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-4. 🗣 Commented on [#17](https://github.com/HelloYeew/site-uptime-monitor/issues/17) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+1. 💪 Opened PR [#22](https://github.com/HelloYeew/maisim/pull/22) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+2. 🎉 Merged PR [#18](https://github.com/HelloYeew/maisim/pull/18) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+3. 🎉 Merged PR [#21](https://github.com/HelloYeew/maisim/pull/21) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+4. 🎉 Merged PR [#20](https://github.com/HelloYeew/maisim/pull/20) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
