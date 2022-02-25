@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Add Last.fm personal chart
-        uses: HelloYeew/lastfm-to-markdown@v1.3.9
+        uses: HelloYeew/lastfm-to-markdown@v1.3.10
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
