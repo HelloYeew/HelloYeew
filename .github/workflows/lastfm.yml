@@ -11,11 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Add Last.fm personal chart
-        uses: HelloYeew/lastfm-to-markdown@v1.3.8
+        uses: HelloYeew/lastfm-to-markdown@v1.3.9
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
-          INCLUDE_LINK: false
+#           INCLUDE_LINK: false
 #         IMAGE_COUNT: 6 # Optional. Defaults to 10. Feel free to remove this line if you want.
       - name: Commit changes
         continue-on-error: true
