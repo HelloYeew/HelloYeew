@@ -43,10 +43,10 @@
 ## 🏃 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/melipass/lastfm-to-markdown/pull/1) in [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown)
-2. 💪 Opened PR [#22](https://github.com/HelloYeew/maisim/pull/22) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-3. 🎉 Merged PR [#18](https://github.com/HelloYeew/maisim/pull/18) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-4. 🎉 Merged PR [#21](https://github.com/HelloYeew/maisim/pull/21) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+1. 🎉 Merged PR [#250](https://github.com/beattosetto/beattosetto/pull/250) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
+2. 🎉 Merged PR [#5](https://github.com/HelloYeew/blog-hexo/pull/5) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
+3. 💪 Opened PR [#1](https://github.com/melipass/lastfm-to-markdown/pull/1) in [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown)
+4. 💪 Opened PR [#22](https://github.com/HelloYeew/maisim/pull/22) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
