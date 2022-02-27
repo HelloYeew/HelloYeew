@@ -8,10 +8,6 @@
 - 🌱 I’m currently learning on .NET framework, some more technology that's not website framework and some Japanese language as my third language
 - 🎯 My Goals : Work on something that I love at my favorite country!
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=HelloYeew&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
-</p>
-
 <table>
   <tr>
     <td>
