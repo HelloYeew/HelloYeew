@@ -39,10 +39,10 @@
 ## 🏃 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/beattosetto/beattosetto/pull/241) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-2. 🎉 Merged PR [#249](https://github.com/beattosetto/beattosetto/pull/249) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-3. 🎉 Merged PR [#250](https://github.com/beattosetto/beattosetto/pull/250) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
-4. 🎉 Merged PR [#5](https://github.com/HelloYeew/blog-hexo/pull/5) in [HelloYeew/blog-hexo](https://github.com/HelloYeew/blog-hexo)
+1. ❗️ Closed issue [#18](https://github.com/HelloYeew/site-uptime-monitor/issues/18) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+2. 🗣 Commented on [#18](https://github.com/HelloYeew/site-uptime-monitor/issues/18) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+3. ❗️ Opened issue [#18](https://github.com/HelloYeew/site-uptime-monitor/issues/18) in [HelloYeew/site-uptime-monitor](https://github.com/HelloYeew/site-uptime-monitor)
+4. 🎉 Merged PR [#241](https://github.com/beattosetto/beattosetto/pull/241) in [beattosetto/beattosetto](https://github.com/beattosetto/beattosetto)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
