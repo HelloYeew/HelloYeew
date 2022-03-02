@@ -4,7 +4,7 @@
 <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="Codestat" /></a>
 
 - 📖 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
-- 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto). Mainly working on issues and maintain the dependencies in [Rūrusetto](https://github.com/Rurusetto/rurusetto)
+- 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto). Mainly working on issues and maintain the dependencies in [Rūrusetto](https://github.com/Rurusetto/rurusetto) with study in college at the same time.
 - 🌱 I’m currently learning on .NET framework with some more technology that's not website framework and some Japanese language as my third language
 - 🎯 My Goals : Work on something that I love at my favorite country!
 
