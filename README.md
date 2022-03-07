@@ -47,6 +47,8 @@
 
 ## My Personal Repositories
 
+This part will be revamped with other part soon ✨
+
 - [💻 HelloYeew's MacBook Setup](https://github.com/HelloYeew/macbook-setup)
 - [helloyeew.dev](https://www.helloyeew.dev) : My official homepage ([repo](https://github.com/HelloYeew/helloyeew.dev))
 - [blog.helloyeew.dev](https://blog.helloyeew.dev/) : My personal blog that I want to write some personal stuff ([repo](https://github.com/HelloYeew/blog)). Currently want to make more styling and the markdown render styling is still not right.
