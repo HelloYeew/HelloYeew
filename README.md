@@ -1,3 +1,5 @@
+The profile is getting revamped soon ✨
+
 <h2>👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
 
 <a href="https://peerlist.io/helloyeew"><img src="https://img.shields.io/badge/Peerlist-helloyeew-brightgreen" alt="Peerlist" /></a>
