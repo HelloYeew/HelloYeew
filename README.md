@@ -3,7 +3,7 @@
 <img src="welcome-banner.png" alt="Welcome!">
 
 <h2 align="center">😺 ~ About me ~ 😺</h2> 
-<img src="about-me-pic.png" width="25%" align="right">
+<img src="about-me-pic.png" width="20%" align="right">
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
 <li><b>Gender:</b> he/him/Male</li>
 <li><b>Education:</b> Sophomore in Software and Knowledge Engineering</li>
