@@ -1,5 +1,3 @@
-<h2 align="center">😀💖 Hi, strangers, Welcome to my profile! 💖😀</h2>
-
 <img src="welcome-banner.png" alt="Welcome!">
 
 <h2 align="center">😺 ~ About me ~ 😺</h2> 
@@ -12,7 +10,11 @@
 <br>
 <p><b>I love <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a> and purple tone soooo much. That's why everything is pink here.</b></p>
 
-## 💬 Connect with me
+## ~ 📇 Knowledge 📇 ~
+
+<p align="center"><img src="https://img.shields.io/badge/-python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/-html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/-digitalocean-0080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></p>
+
+I normally working on some backend stuff with some graphic design stuff.
 
 <a href="https://helloyeew.dev"><img src="icon/globe-pink.svg" alt="Website" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://www.facebook.com/HelloYeew/"><img src="icon/facebook-pink.svg" alt="Facebook profiles" width="22" height="22" style="vertical-align:middle"></a>
