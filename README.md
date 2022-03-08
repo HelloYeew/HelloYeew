@@ -17,6 +17,17 @@
 
 I normally working on some backend stuff with some graphic design stuff.
 
+## 🎵 ~ Music ~ 🎵
+
+<img src="about-me-pic.png" width="20%" align="right">
+
+<p>I normally listen to music all days since it make me not dead inside and make it relieve from my stress stuff. And if you want to know more <a href="https://www.last.fm/user/HelloYeew">yes, I'm still using last.fm lol</a>.</p>
+
+<!-- lastfm -->
+<p align="center"><a href="https://www.last.fm/music/%E3%83%A6%E3%83%A1%E3%82%AC%E3%82%BF%E3%83%AA(%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8+,+shnva)/%E3%83%A6%E3%83%A1%E3%81%AE%E5%96%AB%E8%8C%B6%E5%BA%97"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a61f55afc4fb2356062c4df07cb90e6a.jpg" title="ユメガタリ(ミツキヨ , shnva) - ユメの喫茶店"></a> <a href="https://www.last.fm/music/Mrs.+GREEN+APPLE/Ao+To+Natsu"><img src="https://lastfm.freetls.fastly.net/i/u/64s/427730fa301a558e05f0b21ac7b0d692.jpg" title="Mrs. GREEN APPLE - Ao To Natsu"></a> <a href="https://www.last.fm/music/Uchikubigokumondoukoukai/FUYU+BAN"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1c9262dd65e1cc85845c1f3b63c973d9.jpg" title="Uchikubigokumondoukoukai - FUYU BAN"></a> <a href="https://www.last.fm/music/DragonForce/Killer+Elite"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4cf596acdd64d958d5325cb67ac1281f.jpg" title="DragonForce - Killer Elite"></a> <a href="https://www.last.fm/music/Nano/N"><img src="https://lastfm.freetls.fastly.net/i/u/64s/78b87981c50d419daa1c868f107c39c6.jpg" title="Nano - N"></a> <a href="https://www.last.fm/music/Nhato/TRACE+OF+WILL"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4d8e811740f87d1b1d880777fcb65da0.jpg" title="Nhato - TRACE OF WILL"></a> <a href="https://www.last.fm/music/Aqours/%E9%9D%92%E7%A9%BAJumping+Heart"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a64b8e96c7a2baacad4fa03d0ea8da5c.jpg" title="Aqours - 青空Jumping Heart"></a> <a href="https://www.last.fm/music/ClariS/CheerS"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cc8bf5074b340780bab084e6b896f447.png" title="ClariS - CheerS"></a> <a href="https://www.last.fm/music/Fleshgod+Apocalypse/Agony"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5696a3c7df654b5bbde2282036696db8.png" title="Fleshgod Apocalypse - Agony"></a> <a href="https://www.last.fm/music/Galneryus/Under+the+Force+of+Courage"><img src="https://lastfm.freetls.fastly.net/i/u/64s/07977695d3114433b96074320609b8d8.jpg" title="Galneryus - Under the Force of Courage"></a> </p>
+
+<p><i>Here is my latest top album that I've listened most. Update every day. (づ｡◕‿‿◕｡)づ</i></p>
+
 <a href="https://helloyeew.dev"><img src="icon/globe-pink.svg" alt="Website" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://www.facebook.com/HelloYeew/"><img src="icon/facebook-pink.svg" alt="Facebook profiles" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://twitter.com/nonggummud"><img src="icon/twitter-pink.svg" alt="Twitter profiles" width="22" height="22" style="vertical-align:middle"></a>
@@ -26,9 +37,6 @@ I normally working on some backend stuff with some graphic design stuff.
 <a href="https://osu.ppy.sh/users/18735426"><img src="icon/osu.png" alt="osu! profiles" width="22" height="22" style="vertical-align:middle"></a>
 
 ## 🎵 Albums I've listened the most this week
-
-<!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/%E3%83%A6%E3%83%A1%E3%82%AC%E3%82%BF%E3%83%AA(%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8+,+shnva)/%E3%83%A6%E3%83%A1%E3%81%AE%E5%96%AB%E8%8C%B6%E5%BA%97"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a61f55afc4fb2356062c4df07cb90e6a.jpg" title="ユメガタリ(ミツキヨ , shnva) - ユメの喫茶店"></a> <a href="https://www.last.fm/music/Mrs.+GREEN+APPLE/Ao+To+Natsu"><img src="https://lastfm.freetls.fastly.net/i/u/64s/427730fa301a558e05f0b21ac7b0d692.jpg" title="Mrs. GREEN APPLE - Ao To Natsu"></a> <a href="https://www.last.fm/music/Uchikubigokumondoukoukai/FUYU+BAN"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1c9262dd65e1cc85845c1f3b63c973d9.jpg" title="Uchikubigokumondoukoukai - FUYU BAN"></a> <a href="https://www.last.fm/music/DragonForce/Killer+Elite"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4cf596acdd64d958d5325cb67ac1281f.jpg" title="DragonForce - Killer Elite"></a> <a href="https://www.last.fm/music/Nano/N"><img src="https://lastfm.freetls.fastly.net/i/u/64s/78b87981c50d419daa1c868f107c39c6.jpg" title="Nano - N"></a> <a href="https://www.last.fm/music/Nhato/TRACE+OF+WILL"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4d8e811740f87d1b1d880777fcb65da0.jpg" title="Nhato - TRACE OF WILL"></a> <a href="https://www.last.fm/music/Aqours/%E9%9D%92%E7%A9%BAJumping+Heart"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a64b8e96c7a2baacad4fa03d0ea8da5c.jpg" title="Aqours - 青空Jumping Heart"></a> <a href="https://www.last.fm/music/ClariS/CheerS"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cc8bf5074b340780bab084e6b896f447.png" title="ClariS - CheerS"></a> <a href="https://www.last.fm/music/Fleshgod+Apocalypse/Agony"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5696a3c7df654b5bbde2282036696db8.png" title="Fleshgod Apocalypse - Agony"></a> <a href="https://www.last.fm/music/Galneryus/Under+the+Force+of+Courage"><img src="https://lastfm.freetls.fastly.net/i/u/64s/07977695d3114433b96074320609b8d8.jpg" title="Galneryus - Under the Force of Courage"></a> </p>
 
 ## 🏃 Latest Activity
 
