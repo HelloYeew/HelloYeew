@@ -12,14 +12,14 @@
 
 ## ~ 📇 Knowledge 📇 ~
 
-<img src="about-me-pic.png" width="20%" align="right">
+<img src="about-me-pic.png" width="10%" align="right">
 <p align="center"><img src="https://img.shields.io/badge/-python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/-html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/-digitalocean-0080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></p>
 
 I normally working on some backend stuff with some graphic design stuff.
 
 ## 🎵 ~ Music ~ 🎵
 
-<img src="about-me-pic.png" width="20%" align="right">
+<img src="about-me-pic.png" width="15%" align="right">
 
 <p>I normally listen to music all days since it make me not dead inside and make it relieve from my stress stuff. And if you want to know more <a href="https://www.last.fm/user/HelloYeew">yes, I'm still using last.fm lol</a>.</p>
 
@@ -36,16 +36,13 @@ I normally working on some backend stuff with some graphic design stuff.
 <a href="https://www.last.fm/user/HelloYeew"><img src="icon/lastfm-pink.svg" alt="Last.fm profiles" width="22" height="22" style="vertical-align:middle"></a>
 <a href="https://osu.ppy.sh/users/18735426"><img src="icon/osu.png" alt="osu! profiles" width="22" height="22" style="vertical-align:middle"></a>
 
-## 🎵 Albums I've listened the most this week
+## ~ 📝 Contact time! 📝 ~
 
-## 🏃 Latest Activity
+<img src="about-me-pic.png" width="15%" align="right">
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/HelloYeew/maisim/issues/25) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-2. 💪 Opened PR [#25](https://github.com/HelloYeew/maisim/pull/25) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-3. 🎉 Merged PR [#24](https://github.com/HelloYeew/maisim/pull/24) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-4. 🗣 Commented on [#24](https://github.com/HelloYeew/maisim/issues/24) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-<!--END_SECTION:activity-->
+<p align="center"><a href="https://twitter.com/nonggummud" target="_blank"><img src="https://img.shields.io/badge/-nonggummud-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <img src="https://img.shields.io/badge/-helloyeew%232740-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/> <a href="https://www.linkedin.com/in/helloyeew" target="_blank"><img src="https://img.shields.io/badge/-helloyeew-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+
+And YEP no osu! badge here so <a href="https://osu.ppy.sh/users/18735426">here is my 6 digits profile</a>.
 
 ## My Personal Repositories
 
