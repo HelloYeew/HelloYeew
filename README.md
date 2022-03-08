@@ -1,6 +1,6 @@
-The profile is getting revamped soon ✨
+<img src="welcome-banner.png" alt="Welcome!">
 
-<h2>👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
+<h2 align="center">👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
 
 <a href="https://peerlist.io/helloyeew"><img src="https://img.shields.io/badge/Peerlist-helloyeew-brightgreen" alt="Peerlist" /></a>
 <a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="Codestat" /></a>
