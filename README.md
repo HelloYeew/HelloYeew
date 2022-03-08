@@ -9,7 +9,7 @@
 <li><b>Education:</b> Sophomore in Software and Knowledge Engineering @ Kasetsart University</li>
 <li><b>Working @ :</b> [rūrusetto](https://github.com/Rurusetto/rurusetto) | Other open source</li>
 <li><b>Goal:</b> Work on something that I love at my favorite country!</li>
-
+<br>
 <p>I love <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a> and purple tone soooo much. That's why everything is pink here.</p>
 
 ## 💬 Connect with me
