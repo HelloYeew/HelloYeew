@@ -1,27 +1,14 @@
+<h2 align="center">😀💖 Hi, strangers, Welcome to my profile! 💖😀</h2 
+
 <img src="welcome-banner.png" alt="Welcome!">
 
-<h2 align="center">👋 Hi, I'm HelloYeew (ヘローイーオ)</h2> 
-
-<a href="https://peerlist.io/helloyeew"><img src="https://img.shields.io/badge/Peerlist-helloyeew-brightgreen" alt="Peerlist" /></a>
-<a href="https://codestats.net/users/HelloYeew"><img src="https://img.shields.io/badge/-Codestats-3e4053" alt="Codestat" /></a>
-
-- 📖 Currently a sophomore in Software and Knowledge Engineering at Kasetsart University.
-- 🔭 I’m currently working on maintaining [Rūrusetto](https://github.com/Rurusetto/rurusetto) and [beattosetto](https://github.com/beattosetto/beattosetto) with study in college at the same time. I currently working on the [maisim](https://github.com/HelloYeew/maisim) project that just beginning.
-<!-- - 🌱 I’m currently learning on .NET framework with some more technology that's not website framework and some Japanese language as my third language -->
-- 🎯 My Goals : Work on something that I love at my favorite country!
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=helloyeew&show_icons=true&theme=tokyonight" alt="HelloYeew's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HelloYeew&theme=onedark&hide_border=true" alt="HelloYeew's GitHub stats" /></a>
-    </td>
-  <tr>
-</table>
+<h2 align="center">😺 ~ About me ~ 😺</h2> 
+<img src="about-me-pic.png" width="150" align="right">
+<li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
+<li><b>Gender:</b> he/him/Male</li>
+<li><b>Education:</b> Sophomore in Software and Knowledge Engineering @ Kasetsart University</li>
+<li><b>Working @ :</b> [rūrusetto](https://github.com/Rurusetto/rurusetto) | Other open source</li>
+<li><b>Goal:</b> Work on something that I love at my favorite country!</li>
 
 ## 💬 Connect with me
 
