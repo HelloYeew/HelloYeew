@@ -1,14 +1,16 @@
-<h2 align="center">😀💖 Hi, strangers, Welcome to my profile! 💖😀</h2 
+<h2 align="center">😀💖 Hi, strangers, Welcome to my profile! 💖😀</h2>
 
 <img src="welcome-banner.png" alt="Welcome!">
 
 <h2 align="center">😺 ~ About me ~ 😺</h2> 
-<img src="about-me-pic.png" width="150" align="right">
+<img src="about-me-pic.png" width="200" align="right">
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
 <li><b>Gender:</b> he/him/Male</li>
 <li><b>Education:</b> Sophomore in Software and Knowledge Engineering @ Kasetsart University</li>
 <li><b>Working @ :</b> [rūrusetto](https://github.com/Rurusetto/rurusetto) | Other open source</li>
 <li><b>Goal:</b> Work on something that I love at my favorite country!</li>
+
+<p>I love <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a> and purple tone soooo much. That's why everything is pink here.</p>
 
 ## 💬 Connect with me
 
