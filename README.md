@@ -7,7 +7,7 @@
 <li><b>Education:</b> Sophomore in Software and Knowledge Engineering</li>
 <li><b>Working On:</b> <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | <a href="https://github.com/HelloYeew/maisim">maisim</a> | Other open source</li>
 <li><b>Goal:</b> Work on something that I love at my favorite country!</li>
-<li><b>❤️ Anime:</b> Dunno, I watch everything and I love anime girl <img src="twitch-emoji/YEP.png" width="5%" vertical-align="middle"></li>
+<li><b>❤️ Anime:</b> Dunno, I watch everything <img src="twitch-emoji/YEP.png" width="5%" vertical-align="middle"></li>
 <li><b>❤️ Color:</b> <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a> and purple color tone</li>
 <li><b>❤️ Band:</b> <a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin'Party</a></li>
 <li><b>❤️ Idol:</b> <a href="https://github.com/peppy">peppy <img src="twitch-emoji/peppyPls.gif" width="5%" vertical-align="middle"></a></li>
