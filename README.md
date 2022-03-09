@@ -13,14 +13,14 @@
 
 ## 📇 Knowledge 📇
 
-<img src="knowledge-pic.png" width="50%" align="right">
+<img src="knowledge-pic.png" width="30%" align="right">
 <p align="center"><img src="https://img.shields.io/badge/-python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/-html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/-digitalocean-0080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></p>
 
 I normally working on some backend stuff with some graphic design stuff.
 
 ## 🎵 Music 🎵
 
-<img src="music-pic.png" width="100%" align="right">
+<img src="music-pic.png" width="30%" align="right">
 
 <p>I normally listen to music all days since it make me not dead inside or pretend to be dead. And if you want to know more <a href="https://www.last.fm/user/HelloYeew">yes, I'm still using last.fm lmao</a>.</p>
 
@@ -31,14 +31,21 @@ I normally working on some backend stuff with some graphic design stuff.
 
 ## 📝 Contact time! 📝
 
-<img src="contact-pic.png" width="100%" align="right">
+<img src="contact-pic.png" width="30%" align="right">
 
 <p align="center"><a href="https://twitter.com/nonggummud" target="_blank"><img src="https://img.shields.io/badge/-nonggummud-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <img src="https://img.shields.io/badge/-helloyeew%232740-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/> <a href="https://www.linkedin.com/in/helloyeew" target="_blank"><img src="https://img.shields.io/badge/-helloyeew-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 And YEP no osu! badge here so <a href="https://osu.ppy.sh/users/18735426">here is my 6 digits profile GIGACHAD</a>.
+<br>
+
+---
+
+<br>
 
 <img src="bye-banner.png" alt="Thanks for visiting!">
 
-<p align="center"><a href="https://www.helloyeew.dev">homepage</a> | <a href="https://blog.helloyeew.dev/">blog</a> | <a href="https://garden.helloyeew.dev/">digital garden</a></p>
+<p align="center"><b><a href="https://www.helloyeew.dev">homepage</a> | <a href="https://blog.helloyeew.dev/">blog</a> | <a href="https://garden.helloyeew.dev/">digital garden</a></b></p>
+
+<p align="center">Made with ❤️ by me</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=68165621)
