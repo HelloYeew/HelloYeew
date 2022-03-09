@@ -41,10 +41,10 @@ The profile is getting revamped soon ✨
 ## 🏃 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/HelloYeew/maisim/pull/27) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-2. 🎉 Merged PR [#26](https://github.com/HelloYeew/maisim/pull/26) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-3. 🗣 Commented on [#25](https://github.com/HelloYeew/maisim/issues/25) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
-4. 💪 Opened PR [#25](https://github.com/HelloYeew/maisim/pull/25) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+1. 🎉 Merged PR [#25](https://github.com/HelloYeew/maisim/pull/25) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+2. 🎉 Merged PR [#27](https://github.com/HelloYeew/maisim/pull/27) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+3. 🎉 Merged PR [#26](https://github.com/HelloYeew/maisim/pull/26) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
+4. 🗣 Commented on [#25](https://github.com/HelloYeew/maisim/issues/25) in [HelloYeew/maisim](https://github.com/HelloYeew/maisim)
 <!--END_SECTION:activity-->
 
 ## My Personal Repositories
