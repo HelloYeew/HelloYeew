@@ -20,7 +20,7 @@
 
 ## 🎵 Music 🎵
 
-<img src="music-pic.png" width="30%" align="right">
+<img src="music-pic.png" width="27%" align="right">
 
 <p align="center">I normally listen to music all days since it make me not dead inside or pretend to be dead. And if you want to know more <a href="https://www.last.fm/user/HelloYeew">yes, I'm still using last.fm lmao</a>.</p>
 
