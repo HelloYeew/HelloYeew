@@ -37,7 +37,7 @@
 
 <p align="center"><a href="https://twitter.com/nonggummud" target="_blank"><img src="https://img.shields.io/badge/-nonggummud-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <img src="https://img.shields.io/badge/-helloyeew%232740-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/> <a href="https://www.linkedin.com/in/helloyeew" target="_blank"><img src="https://img.shields.io/badge/-helloyeew-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
-<p align="center">And <img src="twitch-emoji/YEP.png" width="5%" vertical-align="middle"> no osu! badge here so <a href="https://osu.ppy.sh/users/18735426">here is my 6 digits profile <img src="twitch-emoji/GIGACHAD.gif" width="5%"></a>.</p>
+<p align="center">And <img src="twitch-emoji/YEP.png" width="5%" vertical-align="middle"> no osu! badge here so <a href="https://osu.ppy.sh/users/18735426">here is my 6 digits profile <img src="twitch-emoji/GIGACHAD.gif" width="5%"></a> .</p>
 <br>
 
 ---
