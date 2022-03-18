@@ -12,6 +12,8 @@
 <li><b>❤️ IDE:</b> Every IDE that JetBrain made especially <a href="https://www.jetbrains.com/rider/">Rider</a></li>
 <br>
 
+I listed all of my tool that I use for programming here (Soon).
+
 ## 📇 Knowledge 📇
 
 <img src="knowledge-pic.png" width="27%" align="right">
