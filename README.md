@@ -9,7 +9,7 @@
 <li><b>❤️ Anime:</b> Dunno, I watch everything <img src="twitch-emoji/YEP.png" width="3%" vertical-align="middle"></li>
 <li><b>❤️ Color:</b> <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a> and purple color tone</li>
 <li><b>❤️ Band:</b> <a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin'Party</a></li>
-<li><b>❤️ Idol:</b> <a href="https://github.com/peppy">peppy <img src="twitch-emoji/peppyPls.gif" width="3%" vertical-align="middle"></a></li>
+<li><b>❤️ IDE:</b> Every IDE that JetBrain made especially <a href="https://www.jetbrains.com/rider/">Rider</a></li>
 <br>
 
 ## 📇 Knowledge 📇
