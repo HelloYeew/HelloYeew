@@ -12,7 +12,7 @@
 <li><b>❤️ IDE:</b> Every IDE that JetBrain made especially <a href="https://www.jetbrains.com/rider/">Rider</a></li>
 <br>
 
-I listed all of my tool that I use for programming here (Soon).
+I listed all of my tool that I use for setup my workflow <a href="https://github.com/HelloYeew/workflow-setup">here</a>.
 
 ## 📇 Knowledge 📇
 
