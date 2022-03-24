@@ -45,7 +45,7 @@ I listed all of my tool that I use for setup my workflow <a href="https://github
 
 <img src="bye-banner.png" alt="Thanks for visiting!">
 
-<p align="center"><b><a href="https://www.helloyeew.dev">homepage</a> | <a href="https://garden.helloyeew.dev/">digital garden</a></b></p>
+<p align="center"><b><a href="https://www.helloyeew.dev">homepage</a>
 
 <p align="center">Made with ❤️ by me</p>
 
