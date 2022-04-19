@@ -4,7 +4,7 @@
 <img src="about-me-pic.png" width="27%" align="right">
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
 <li><b>Education:</b> Sophomore in Software and Knowledge Engineering</li>
-<li><b>Working On:</b> <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | <a href="https://github.com/HelloYeew/maisim">maisim</a> | Other open source</li>
+<li><b>Working On:</b> <a href="https://github.com/HelloYeew/maisim">maisim</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
 <li><b>Goal:</b> To work on something that I love at my favorite country!</li>
 <li><b>❤️ Anime:</b> Dunno, I watch everything <img src="twitch-emoji/YEP.png" width="3%" vertical-align="middle"></li>
 <li><b>❤️ Color:</b> <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a> and purple color tone</li>
