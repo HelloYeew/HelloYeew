@@ -16,7 +16,7 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
           INCLUDE_LINK: true
-#         IMAGE_COUNT: 6 # Optional. Defaults to 10. Feel free to remove this line if you want.
+          IMAGE_COUNT: 14 # Optional. Defaults to 10. Feel free to remove this line if you want.
       - name: Commit changes
         continue-on-error: true
         run: |
