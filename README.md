@@ -1,7 +1,7 @@
 <img src="welcome-banner.png" alt="Welcome!">
 
 <h2 align="center">😺 About me 😺</h2> 
-<img src="about-me-pic.png" width="27%" align="right">
+<img src="helloyeewchan.jpg" width="27%" align="right">
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
 <li><b>Education:</b> Sophomore in Software and Knowledge Engineering</li>
 <li><b>Working On:</b> <a href="https://github.com/HelloYeew/maisim">maisim</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
