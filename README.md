@@ -12,7 +12,8 @@
 <li><b>❤️ IDE:</b> Every IDE made by JetBrains, especially <a href="https://www.jetbrains.com/rider/">Rider</a></li>
 <br>
 
-I listed all the tools that I use for setup my workflow <a href="https://github.com/HelloYeew/workflow-setup">here</a>.
+<p>I listed all the tools that I use for setup my workflow <a href="https://github.com/HelloYeew/workflow-setup">here</a>.</p>
+<p>The girl right here is <i>Yeew-chan</i>, my original character.
 
 ## 📇 Skills 📇
 
