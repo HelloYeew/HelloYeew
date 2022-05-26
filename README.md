@@ -13,7 +13,6 @@
 <br>
 
 <p>I listed all the tools that I use for setup my workflow <a href="https://github.com/HelloYeew/workflow-setup">here</a>.</p>
-<p>The girl right here is <i>Yeew-chan</i>, my original character.
 
 ## 📇 Skills 📇
 
