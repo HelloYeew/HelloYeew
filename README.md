@@ -7,7 +7,7 @@
 <li><b>Working On:</b> <a href="https://github.com/HelloYeew/maisim">maisim</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
 <li><b>Goal:</b> To work on something that I love at my favorite country!</li>
 <li><b>❤️ Anime:</b> Dunno, I watch everything <img src="twitch-emoji/YEP.png" width="3%" vertical-align="middle"></li>
-<li><b>❤️ Color:</b> <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a> and purple color tone</li>
+<li><b>❤️ Color:</b> <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a>, purple and blue color tone</li>
 <li><b>❤️ Band:</b> <a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin'Party</a> and YOASOBI</li>
 <li><b>❤️ IDE:</b> Every IDE made by JetBrains, especially <a href="https://www.jetbrains.com/rider/">Rider</a> and its family</li>
 <br>
