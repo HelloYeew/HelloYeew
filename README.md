@@ -1,5 +1,11 @@
 <img src="welcome-banner.png" alt="Welcome!">
 
+<h2 align="center">🎉 Hacktober Fest 🎉</h2> 
+
+If you are looking for a project for participation here are some of my projects that you can contribute to and get a t-shirt from Hacktober Fest. :
+
+- [maisim](https://github.com/HelloYeew/maisim) (C#, [osu-framework](https://github.com/ppy/osu-framework)) : A free and open-source, community-powered based on circular-lane-style gameplay powered by the osu!framework.
+
 <h2 align="center">😺 About me 😺</h2> 
 <img src="helloyeewchan.jpg" width="27%" align="right">
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
