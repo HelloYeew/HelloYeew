@@ -10,7 +10,7 @@ If you are looking for a project for participation here are some of my projects 
 <h2 align="center">😺 About me 😺</h2> 
 <img src="helloyeewchan.jpg" width="27%" align="right">
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
-<li><b>Current:</b> Have jobs as full-stack software engineer with part-time as college student</li>
+<li><b>Current:</b> Have a job as full-stack software engineer with part-time as college student</li>
 <li><b>Working On:</b> <a href="https://github.com/HelloYeew/maisim">maisim</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
 <li><b>Goal:</b> To work on something that I love at my favorite country!</li>
 <li><b>More goal:</b> Leave my university cuz I'm bored</li>
