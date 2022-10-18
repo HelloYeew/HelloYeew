@@ -4,7 +4,7 @@
 
 If you are looking for a project for participation here are some of my projects that you can contribute to and get a t-shirt from Hacktober Fest. :
 
-- [maisim](https://github.com/HelloYeew/maisim) (C#, [osu-framework](https://github.com/ppy/osu-framework)) : A free and open-source, community-powered based on circular-lane-style gameplay powered by the osu!framework.
+- [maisim](https://github.com/HelloYeew/maisim) (C#, [osu!framework](https://github.com/ppy/osu-framework)) : A free and open-source, community-powered based on circular-lane-style gameplay powered by the osu!framework.
 - [Rūrusetto](https://github.com/Rurusetto/rurusetto) (Python, Django) : A wiki that contains all osu! rulesets
 
 <h2 align="center">😺 About me 😺</h2> 
