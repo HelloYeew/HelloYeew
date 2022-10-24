@@ -13,7 +13,7 @@ If you are looking for a project for participation here are some of my projects 
 <li><b>Current:</b> Have a job as full-stack software engineer with part-time as college student</li>
 <li><b>Working On:</b> <a href="https://github.com/HelloYeew/maisim">maisim</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
 <li><b>Goal:</b> To work on something that I love at my favorite country!</li>
-<li><b>More goal:</b> Leave my university cuz I'm bored</li>
+<li><b>More goal:</b> Spend less time on university stuff cuz I'm bored</li>
 <li><b>❤️ Anime:</b> Dunno, I watch everything <img src="twitch-emoji/YEP.png" width="3%" vertical-align="middle"></li>
 <li><b>❤️ Color:</b> <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a>, purple and blue color tone</li>
 <li><b>❤️ Band:</b> <a href="https://bandori.fandom.com/wiki/Poppin%27Party">Poppin'Party</a> and YOASOBI</li>
