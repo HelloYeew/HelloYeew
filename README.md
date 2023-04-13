@@ -4,7 +4,7 @@
 <img src="helloyeewchan.jpg" width="27%" align="right">
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
 <li><b>Current:</b> Have a job as full-stack software engineer with part-time as college student</li>
-<li><b>Working On:</b> <a href="https://github.com/HelloYeew/maisim">maisim</a> | <a href="https://github.com/HelloYeew/asuna">asuna</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
+<li><b>Working On:</b> <a href="https://github.com/HelloYeew/maisim">maisim</a> | <a href="https://github.com/HelloYeew/asuna">asuna</a> | <a href="https://github.com/HelloYeew/chisato">chisato</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
 <li><b>Goal:</b> To work on something that I love at my favorite country!</li>
 <li><b>More goal:</b> Spend less time on university stuff cuz I'm bored</li>
 <li><b>❤️ Anime:</b> Dunno, I watch everything <img src="twitch-emoji/YEP.png" width="3%" vertical-align="middle"></li>
