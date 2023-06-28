@@ -1,7 +1,7 @@
 <img src="welcome-banner.png" alt="Welcome!">
 
 <h2 align="center">😺 About me 😺</h2> 
-<img src="helloyeewchan.jpg" width="27%" align="right">
+<href="https://music.apple.com/profile/HelloYeew"><img src="https://music-profile.rayriffy.com/theme/light.svg?uid=000318.14c819f20852410f9dbc0d2a5438f62b.0716" width="27%" align="right"></href>
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
 <li><b>Current:</b> Have a job as full-stack software engineer with part-time as college student</li>
 <li><b>Interest:</b> Backend, Low-level computer graphic, Game development</li>
@@ -16,6 +16,9 @@
 <br>
 
 <p>I listed all the tools that I use for setup my workflow <a href="https://github.com/HelloYeew/workflow-setup">here</a>.</p>
+
+<br>
+<br>
 
 ## 📇 Language & Tools 📇
 
