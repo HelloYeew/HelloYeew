@@ -7,7 +7,6 @@
 <li><b>Interest:</b> Backend with a bit of frontend, Low-level computer graphic, Game development</li>
 <li><b>Working On:</b> <a href="https://github.com/HelloYeew/renako">Renako</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
 <li><b>Goal:</b> To work on something that I love at my favorite country!</li>
-<li><b>❤️ Anime:</b> Dunno, I watch everything <img src="twitch-emoji/YEP.png" width="3%" vertical-align="middle"></li>
 <li><b>❤️ Color:</b> blue color tone, <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a></li>
 <li><b>❤️ Band:</b> All bandori band especially Pastel*Palettes</li>
 <li><b>❤️ IDE:</b> Every IDE made by JetBrains, especially <a href="https://www.jetbrains.com/rider/">Rider</a> and its family</li> (VSCode sometimes)
