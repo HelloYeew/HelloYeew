@@ -4,7 +4,7 @@
 <!-- <href="https://music.apple.com/profile/HelloYeew"><img src="https://music-profile.rayriffy.com/theme/light.svg?uid=000318.14c819f20852410f9dbc0d2a5438f62b.0716" width="27%" align="right"></href> -->
 <li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
 <li><b>Current:</b> Have a job as full-stack software engineer with part-time as college student</li>
-<li><b>Interest:</b> Backend with a bit of frontend, Low-level computer graphic, Game development</li>
+<li><b>Interest:</b> Backend with a bit of frontend, research on low-level computer graphic</li>
 <li><b>Working On:</b> <a href="https://github.com/HelloYeew/renako">Renako</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
 <li><b>Goal:</b> To work on something that I love at my favorite country!</li>
 <li><b>❤️ Color:</b> blue color tone, <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a></li>
