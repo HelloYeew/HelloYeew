@@ -8,7 +8,7 @@
 <li><b>Working On:</b> <a href="https://github.com/HelloYeew/renako">Renako</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
 <li><b>Goal:</b> To work on something that I love at my favorite country!</li>
 <li><b>❤️ Color:</b> blue color tone, <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a></li>
-<li><b>❤️ Band:</b> All bandori band especially Pastel*Palettes</li>
+<li><b>❤️ Character:</b> <a href="https://ccsakura.fandom.com/wiki/Sakura_Kinomoto">Sakura Kinomoto</a></li>
 <li><b>❤️ IDE:</b> Every IDE made by JetBrains, especially <a href="https://www.jetbrains.com/rider/">Rider</a> and its family</li> (VSCode sometimes)
 <br>
 <br>
