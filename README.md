@@ -55,7 +55,7 @@
 
 <img src="bye-banner.png" alt="Thanks for visiting!">
 
-<p align="center"><b><a href="https://www.helloyeew.dev">homepage</a> | <b><a href="https://story.helloyeew.dev/">blog</a></p>
+<p align="center"><b><a href="https://helloyeew.dev">homepage</a> | <b><a href="https://helloyeew.dev/blog">blog</a></p>
 
 <p align="center">Made with ❤️ by me</p>
 
