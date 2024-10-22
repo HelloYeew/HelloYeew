@@ -40,15 +40,13 @@ I normally listen to music everyday since it makes me not dead inside or pretend
 
 <br>
 
-Here is the latest top album that I've listened most. It updates on the daily basis using <a href="https://github.com/melipass/lastfm-to-markdown/">this awesome workflow that I contribute</a> to make the link work. (づ｡◕‿‿◕｡)づ
+Here is the latest top album that I've listened most. It updates on the daily basis using <a href="https://github.com/melipass/lastfm-to-markdown/">this awesome workflow that I contribute</a> to make the link work.
 
 ## 📝 Contact time! 📝
 
 <p align="center"><a href="https://twitter.com/nonggummud" target="_blank"><img src="https://img.shields.io/badge/-nonggummud-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/helloyeew" target="_blank"><img src="https://img.shields.io/badge/-helloyeew-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://music.apple.com/profile/HelloYeew" target="_blank"><img src="https://img.shields.io/badge/-Apple Music-FC3C44.svg?&style=for-the-badge&logo=Apple&logoColor=white"/></a></p>
 
-<p align="center">You can contact me using these ways. Don't hesitate to contact me, I'm waiting!</p>
-<br>
-<br>
+You can contact me using these ways. Don't hesitate to contact me, I'm waiting!
 
 ---
 
