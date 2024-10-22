@@ -1,36 +1,37 @@
-<img src="welcome-banner.png" alt="Welcome!">
+# HelloYeew 🐟
 
-<h2 align="center">😺 About me 😺</h2> 
-<!-- <href="https://music.apple.com/profile/HelloYeew"><img src="https://music-profile.rayriffy.com/theme/light.svg?uid=000318.14c819f20852410f9dbc0d2a5438f62b.0716" width="27%" align="right"></href> -->
-<li><b>Name:</b> HelloYeew (ヘローイーオ)</li>
-<li><b>Current:</b> Have a full time job as full-stack software engineer</li>
-<li><b>Interest:</b> Backend with a bit of frontend, research on low-level computer graphic</li>
-<li><b>Working On:</b> <a href="https://github.com/HelloYeew/renako">Renako</a> | <a href="https://github.com/Rurusetto/rurusetto">rūrusetto</a> | Other open source</li>
-<li><b>❤️ Color:</b> blue color tone, <a href="https://www.color-hex.com/color-palette/104633">osu! pink</a></li>
-<li><b>❤️ Character:</b> <a href="https://ccsakura.fandom.com/wiki/Sakura_Kinomoto">Sakura Kinomoto</a></li>
-<li><b>❤️ IDE:</b> Every IDE made by JetBrains, especially <a href="https://www.jetbrains.com/rider/">Rider</a> and its family</li> (VSCode sometimes)
-<br>
-<br>
-<br>
-<br>
+Work as full-stack software engineer. Love to create tool for personal use and contribute to open-source. Also cosplay sometimes.
 
-<p>I listed all the tools that I use for setup my workflow <a href="https://github.com/HelloYeew/workflow-setup">here</a>.</p>
+<p align=center>
+    <img src=https://helloyeew.dev/home.webp style="border-radius: 8px" alt="HelloYeew" />
+</p>
 
-<br>
-<br>
+
+## 📄 Projects(?) and stuff 📄
+
+- [Rūrusetto](https://rulesets.info/) - A wiki for osu! rulesets with fully functional open API.
+- [Beattosetto](https://beatsets.info/) - An ISP project in year 2 of Software and Knowledge Engineering. Currently maintain as open source projects.
+- [Renako](https://github.com/HelloYeew/renako) - A cross-platform rhythm game that's not just a rhythm game using osu!framework.
+- [Atena](https://github.com/HelloYeew/atena) - A place for dropping a build artifact from CI pipelines
+- [Asuna](https://github.com/HelloYeew/asuna) - A code coverage report tool for your project
+- [HelloYeew JetBrain Theme](https://plugins.jetbrains.com/plugin/22883-helloyeew-theme) - My applied color scheme for better coding experience in language that I use in JetBrain IDE platform.
+- [KanaMelody](https://github.com/HelloYeew/kana-melody) - Cross-platform music player based on MusicBee functionality.
+
+More in [GitHub](https://github.com/HelloYeew?tab=repositories)
 
 ## 📇 Language & Tools 📇
 
-<img src="knowledge-pic.png" width="27%" align="right">
-<p align="center"><img src="https://img.shields.io/badge/-python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/-javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-tailwind CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
+<p align=center>
+<img src=https://skillicons.dev/icons?i=python,django,cs,dotnet,java,js,ts,html,css,tailwind,prisma,nestjs,express,astro,svelte,php,docker,pycharm,rider,webstorm,idea,vscode,figma alt="skillicons" />
+</p>
 
-<p align="center">These are my main languages, framework and some tools that I use mainly. I love to work on some backend stuff including graphic design stuff (but I cannot draw).</p>
+These are my main languages, framework and some tools that I use mainly. I love to work on backend stuff and play with low-level computer graphic. Also mainly using JetBrains IDEs for my daily work especially Rider and PyCharm.
+
+I listed all the tools that I use for setup my workflow <a href="https://github.com/HelloYeew/workflow-setup">here.</a>
 
 ## 🎵 Music 🎵
 
-<img src="music-pic.png" width="27%" align="right">
-
-<p align="center">I normally listen to music everyday since it makes me not dead inside or pretend to be dead. In case you want to know more <a href="https://www.last.fm/user/HelloYeew">yes, I'm still using last.fm.</p>
+I normally listen to music everyday since it makes me not dead inside or pretend to be dead. In case you want to know more <a href="https://www.last.fm/user/HelloYeew">yes, I'm still using last.fm.
   
 <br>
 
@@ -39,11 +40,9 @@
 
 <br>
 
-<p align="center">Here is the latest top album that I've listened most. It updates on the daily basis using <a href="https://github.com/melipass/lastfm-to-markdown/">this awesome workflow that I contribute</a> to make the link work. (づ｡◕‿‿◕｡)づ</p>
+Here is the latest top album that I've listened most. It updates on the daily basis using <a href="https://github.com/melipass/lastfm-to-markdown/">this awesome workflow that I contribute</a> to make the link work. (づ｡◕‿‿◕｡)づ
 
 ## 📝 Contact time! 📝
-
-<img src="contact-pic.png" width="27%" align="right">
 
 <p align="center"><a href="https://twitter.com/nonggummud" target="_blank"><img src="https://img.shields.io/badge/-nonggummud-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/helloyeew" target="_blank"><img src="https://img.shields.io/badge/-helloyeew-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://music.apple.com/profile/HelloYeew" target="_blank"><img src="https://img.shields.io/badge/-Apple Music-FC3C44.svg?&style=for-the-badge&logo=Apple&logoColor=white"/></a></p>
 
@@ -53,9 +52,7 @@
 
 ---
 
-<img src="bye-banner.png" alt="Thanks for visiting!">
-
 <p align="center"><b><a href="https://helloyeew.dev">homepage</a> | <b><a href="https://helloyeew.dev/blog">blog</a></p>
 
-<p align="center">Made with ❤️ by me</p>
+<p align="center">“I wanted to tell you that… Wherever you may end up in this world, I will be searching for you.” - Taki Tachibana.</p>
 
