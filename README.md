@@ -1,10 +1,10 @@
 # HelloYeew 🐟
 
-Work as full-stack software engineer. Love to create tool for personal use and contribute to open-source. Also cosplay sometimes.
+Working as full-stack software engineer. Love to create tool for personal use and contribute to open-source. Currently interest in Graphical Programming and Music.
 
-<p align=center>
+<!-- <p align=center>
     <img src=https://helloyeew.dev/home.webp style="border-radius: 8px" alt="HelloYeew" />
-</p>
+</p> -->
 
 
 ## 📄 Projects(?) and stuff 📄
