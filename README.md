@@ -22,7 +22,7 @@ More in [GitHub](https://github.com/HelloYeew?tab=repositories)
 ## 📇 Language & Tools 📇
 
 <p align=center>
-<img src=https://skillicons.dev/icons?i=python,django,cs,dotnet,java,js,ts,html,css,tailwind,prisma,nestjs,express,astro,svelte,php,docker,pycharm,rider,webstorm,idea,vscode,figma alt="skillicons" />
+<img src=https://skillicons.dev/icons?i=cs,dotnet,python,django,java,js,ts,html,css,tailwind,prisma,nestjs,express,astro,svelte,php,docker,rider,pycharm,webstorm,idea,vscode,figma alt="skillicons" />
 </p>
 
 These are my main languages, framework and some tools that I use mainly. I love to work on backend stuff and play with low-level computer graphic. Also mainly using JetBrains IDEs for my daily work especially Rider and PyCharm.
