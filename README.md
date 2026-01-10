@@ -37,7 +37,7 @@ I normally listen to music everyday since it makes me not dead inside or pretend
 <br>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Aira+Yuuki/Leading+role"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1105d0ee7dcd61440180a72ac9abdf56.jpg" title="Aira Yuuki - Leading role"></a> <a href="https://www.last.fm/music/Daniel+Powter/Daniel+Powter+(U.S.+Release)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a2e27935ea9554bf4af0858158b885dc.jpg" title="Daniel Powter - Daniel Powter (U.S. Release)"></a> <a href="https://www.last.fm/music/GFRIEND/GFRIEND+The+6th+Mini+Album+%27Time+For+The+Moon+Night%27"><img src="https://lastfm.freetls.fastly.net/i/u/64s/dc836e0ca41e8b10e46c78a83c6c8c8f.png" title="GFRIEND - GFRIEND The 6th Mini Album 'Time For The Moon Night'"></a> <a href="https://www.last.fm/music/KANA-BOON/TIME"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2f1222bb3faf42c3c2a84e6d2bc54b7c.png" title="KANA-BOON - TIME"></a> <a href="https://www.last.fm/music/Longman/Jyugatsuyokka"><img src="https://lastfm.freetls.fastly.net/i/u/64s/077103aafd837bdab029ebcb4a31c1ef.jpg" title="Longman - Jyugatsuyokka"></a> <a href="https://www.last.fm/music/pinocchioP/Human"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c83d1456ecf82a0dd6865f69216ef1f7.jpg" title="pinocchioP - Human"></a> </p>
+<p align="center"></p>
 
 <br>
 
