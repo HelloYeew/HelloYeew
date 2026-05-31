@@ -11,7 +11,6 @@ Working as full-stack software engineer. Love to create tool for personal use an
 
 - [Rūrusetto](https://rulesets.info/) - A wiki for osu! rulesets with fully functional open API.
 - [Beattosetto](https://beatsets.info/) - An ISP project in year 2 of Software and Knowledge Engineering. Currently maintain as open source projects.
-- [Renako](https://github.com/HelloYeew/renako) - A cross-platform rhythm game that's not just a rhythm game using osu!framework.
 - [Atena](https://github.com/HelloYeew/atena) - A place for dropping a build artifact from CI pipelines
 - [Asuna](https://github.com/HelloYeew/asuna) - A code coverage report tool for your project
 - [HelloYeew JetBrain Theme](https://plugins.jetbrains.com/plugin/22883-helloyeew-theme) - My applied color scheme for better coding experience in language that I use in JetBrain IDE platform.
