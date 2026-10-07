@@ -36,7 +36,7 @@ I normally listen to music everyday since it makes me not dead inside or pretend
 <br>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/BTS/YOU+NEVER+WALK+ALONE"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1a1b418cdfd8360a4975c9a6df5526b0.png" title="BTS - YOU NEVER WALK ALONE"></a> <a href="https://www.last.fm/music/Lisa/LANDSPACE"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a9c8ee5ec30d4c72ccd097e403539c73.png" title="Lisa - LANDSPACE"></a> <a href="https://www.last.fm/music/Mrs.+GREEN+APPLE/Ao+To+Natsu+-+EP"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/9573312503ccf3da30a3c96f0b4d07cd.jpg" title="Mrs. GREEN APPLE - Ao To Natsu - EP"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/BTS/YOU+NEVER+WALK+ALONE"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1a1b418cdfd8360a4975c9a6df5526b0.png" title="BTS - YOU NEVER WALK ALONE"></a> </p>
 
 <br>
 
