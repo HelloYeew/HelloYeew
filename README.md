@@ -36,7 +36,7 @@ I normally listen to music everyday since it makes me not dead inside or pretend
 <br>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/BTS/YOU+NEVER+WALK+ALONE"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1a1b418cdfd8360a4975c9a6df5526b0.png" title="BTS - YOU NEVER WALK ALONE"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/BTS/YOU+NEVER+WALK+ALONE"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1a1b418cdfd8360a4975c9a6df5526b0.png" title="BTS - YOU NEVER WALK ALONE"></a> <a href="https://www.last.fm/music/Longman/Jyugatsuyokka"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/077103aafd837bdab029ebcb4a31c1ef.jpg" title="Longman - Jyugatsuyokka"></a> <a href="https://www.last.fm/music/Neko+Hacker/From+Zero+-+EP"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/66a70464cefd3cf12a9a1baf1aa345c4.jpg" title="Neko Hacker - From Zero - EP"></a> <a href="https://www.last.fm/music/PLAVE/Love+Is+Enough+(from+Sold+Out+On+You+(Original+Soundtrack)+Part+10)+-+Single"><img src="https://lastfm-img.freetls.fastly.net/i/u/64s/0218e2c4ba183173bc41132a07cfee97.jpg" title="PLAVE - Love Is Enough (from Sold Out On You (Original Soundtrack) Part 10) - Single"></a> </p>
 
 <br>
 
