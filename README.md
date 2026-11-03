@@ -9,6 +9,7 @@ Working as full-stack software engineer. Love to create tool for personal use an
 
 ## 📄 Projects(?) and stuff 📄
 
+- [yuuki.](https://github.com/HelloYeew/yuuki) - Another rhythm game (?)
 - [Sakura](https://github.com/HelloYeew/sakura) - A versatile graphic framework and toolkit for making basic UI application and 2D game
 - [Rūrusetto](https://rulesets.info/) - A wiki for osu! rulesets with fully functional open API.
 - [Beattosetto](https://beatsets.info/) - An ISP project in year 2 of Software and Knowledge Engineering. Currently maintain as open source projects.
